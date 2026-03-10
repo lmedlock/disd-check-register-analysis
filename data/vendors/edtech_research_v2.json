@@ -1,0 +1,962 @@
+[
+  {
+    "vendor_name": "AMPLIFY EDUCATION INC",
+    "classification": "curriculum_platform",
+    "scores": {
+      "technical_buildability": 4,
+      "content_ip": 1,
+      "switching_cost": 2,
+      "market_alternatives": 3,
+      "data_portability": 3
+    },
+    "rationales": {
+      "technical_buildability": "Platform infrastructure uses standard web technologies for content delivery, assessments, and progress tracking. A 4-person team could build the delivery platform within 12-18 months.",
+      "content_ip": "Extensive K-12 curriculum developed over many years by curriculum specialists. Standards-aligned ELA, Science, and Math content with multimedia resources represents irreplaceable IP.",
+      "switching_cost": "District-wide curriculum adoption across multiple grade levels. Switching would require teacher retraining, curriculum realignment, and multi-year transition planning.",
+      "market_alternatives": "Several competitors exist (Great Minds, Curriculum Associates, Scholastic) but limited options for comprehensive K-12 digital curriculum bundles.",
+      "data_portability": "Student progress data and assessment results can be exported, but curriculum-specific learning paths and content are tied to the platform."
+    },
+    "composite_score": 2.65,
+    "replaceability_level": "low",
+    "service_breakdown": {
+      "software_licensing": 40,
+      "professional_development": 15,
+      "content_licensing": 40,
+      "hardware_materials": 0,
+      "ongoing_services": 5
+    },
+    "criticality": "core",
+    "user_footprint": {
+      "teachers": 5000,
+      "students": 80000,
+      "admin": 200
+    },
+    "research_confidence": "high",
+    "primary_products": ["Amplify ELA", "Amplify Science", "Amplify Math", "Amplify Reading", "mCLASS Assessment Platform", "Amplify Caminos del Saber (Spanish)", "Professional Learning Services"],
+    "product_descriptions": "Amplify provides comprehensive K-12 digital curricula with interactive lessons, multimedia content, and embedded assessments. Their flagship products include standards-aligned ELA and Science programs with rich digital content, adaptive reading assessment tools (mCLASS), and emerging math curricula.",
+    "target_use_case": "Primary curriculum delivery and instruction across core subjects, particularly for blended and digital learning environments. Used for daily lesson delivery, student engagement, formative and summative assessment, and progress monitoring.",
+    "additional_notes": "Amplify's $38M spending represents district-wide curriculum adoption. Platform could be replaced, but content would need to be sourced or developed separately - a multi-year effort requiring curriculum development expertise.",
+    "research_date": "2025-12-21T23:42:05.736327",
+    "total_spending": 38231588.81
+  },
+  {
+    "vendor_name": "LAKESHORE LEARNING MATERIALS",
+    "classification": "physical",
+    "scores": {
+      "technical_buildability": 0,
+      "content_ip": 0,
+      "switching_cost": 0,
+      "market_alternatives": 0,
+      "data_portability": 0
+    },
+    "rationales": {
+      "technical_buildability": "N/A - Physical materials vendor, not software.",
+      "content_ip": "N/A - Physical educational products, not digital content.",
+      "switching_cost": "N/A - Physical goods can be sourced from alternative suppliers.",
+      "market_alternatives": "N/A - Multiple physical materials vendors exist.",
+      "data_portability": "N/A - No digital data to export."
+    },
+    "composite_score": 0.0,
+    "replaceability_level": "none",
+    "service_breakdown": {
+      "software_licensing": 0,
+      "professional_development": 0,
+      "content_licensing": 0,
+      "hardware_materials": 100,
+      "ongoing_services": 0
+    },
+    "criticality": "supplementary",
+    "user_footprint": {
+      "teachers": 8000,
+      "students": 0,
+      "admin": 50
+    },
+    "research_confidence": "high",
+    "primary_products": ["Physical educational manipulatives and materials", "Classroom furniture and storage solutions", "Early childhood learning materials", "STEM/STEAM activity kits", "Arts and crafts supplies"],
+    "product_descriptions": "Lakeshore Learning Materials is primarily a physical educational materials vendor specializing in hands-on learning resources, manipulatives, classroom furniture, and educational supplies for PreK-6 classrooms.",
+    "target_use_case": "Physical classroom materials used for hands-on learning activities, manipulative-based math instruction, science exploration, early childhood development activities, and classroom organization.",
+    "additional_notes": "Not applicable for software replaceability analysis. Physical goods vendor - would require sourcing alternative suppliers rather than software development.",
+    "research_date": "2025-12-21T23:42:17.797041",
+    "total_spending": 20310639.71
+  },
+  {
+    "vendor_name": "GREAT MINDS PBC",
+    "classification": "curriculum_platform",
+    "scores": {
+      "technical_buildability": 4,
+      "content_ip": 1,
+      "switching_cost": 2,
+      "market_alternatives": 3,
+      "data_portability": 3
+    },
+    "rationales": {
+      "technical_buildability": "Digital platform for curriculum delivery is relatively standard. TeachPoint PD platform uses common LMS patterns.",
+      "content_ip": "Eureka Math, Wit & Wisdom ELA, and PhD Science represent years of curriculum development by education experts. Research-based, standards-aligned content is core IP.",
+      "switching_cost": "District-wide curriculum adoption requires multi-year transition. Teachers trained extensively on methodology. Significant pedagogical shift required.",
+      "market_alternatives": "Limited alternatives for coherent, research-based K-12 curriculum. Competitors include Amplify, Carnegie Learning for specific subjects.",
+      "data_portability": "Assessment data exportable but curriculum progress tied to proprietary content structure."
+    },
+    "composite_score": 2.65,
+    "replaceability_level": "low",
+    "service_breakdown": {
+      "software_licensing": 25,
+      "professional_development": 25,
+      "content_licensing": 45,
+      "hardware_materials": 0,
+      "ongoing_services": 5
+    },
+    "criticality": "core",
+    "user_footprint": {
+      "teachers": 4000,
+      "students": 60000,
+      "admin": 150
+    },
+    "research_confidence": "high",
+    "primary_products": ["Eureka Math/EngageNY Math", "Wit & Wisdom ELA", "PhD Science", "Geodes Books", "Knowledge on the Go", "TeachPoint professional development platform"],
+    "product_descriptions": "Great Minds is primarily a curriculum publisher that creates comprehensive, research-based educational materials for K-12. Their flagship products include Eureka Math, Wit & Wisdom ELA, and PhD Science.",
+    "target_use_case": "Comprehensive curriculum delivery and professional development. Schools use Great Minds materials as their core instructional content, supplemented by digital platforms for lesson delivery and assessment.",
+    "additional_notes": "Great Minds operates as a Public Benefit Corporation. The high contract value reflects district-wide curriculum adoption including materials, digital access, and extensive professional development.",
+    "research_date": "2025-12-21T23:42:30.802318",
+    "total_spending": 17216310.3
+  },
+  {
+    "vendor_name": "CARNEGIE LEARNING INC",
+    "classification": "curriculum_platform",
+    "scores": {
+      "technical_buildability": 1,
+      "content_ip": 1,
+      "switching_cost": 2,
+      "market_alternatives": 2,
+      "data_portability": 3
+    },
+    "rationales": {
+      "technical_buildability": "MATHia's adaptive learning engine is built on 25+ years of cognitive science research. Proprietary AI algorithms for personalized tutoring require specialized expertise.",
+      "content_ip": "Decades of research-backed content from Carnegie Mellon researchers. Cognitive Tutor methodology is foundational IP.",
+      "switching_cost": "Deep integration into math instruction workflow. Teachers and students trained on specific methodology. Significant retraining required.",
+      "market_alternatives": "Few competitors offer research-backed adaptive math tutoring at this level. DreamBox, ALEKS are alternatives but different approaches.",
+      "data_portability": "Student progress data exportable. Learning path algorithms and cognitive models are proprietary."
+    },
+    "composite_score": 1.75,
+    "replaceability_level": "very_low",
+    "service_breakdown": {
+      "software_licensing": 50,
+      "professional_development": 15,
+      "content_licensing": 30,
+      "hardware_materials": 0,
+      "ongoing_services": 5
+    },
+    "criticality": "important",
+    "user_footprint": {
+      "teachers": 2000,
+      "students": 40000,
+      "admin": 100
+    },
+    "research_confidence": "high",
+    "primary_products": ["MATHia", "Carnegie Learning Math Solution", "Cognitive Tutor", "Carnegie Learning ELA", "Long + Live + Math textbooks"],
+    "product_descriptions": "Carnegie Learning provides AI-powered adaptive math learning platforms, particularly MATHia (an intelligent tutoring system), combining proprietary cognitive science research with artificial intelligence for personalized math instruction.",
+    "target_use_case": "Math curriculum delivery and personalized learning in middle and high school. Teachers assign adaptive practice problems, track progress, and receive detailed analytics. AI tutor provides step-by-step guidance.",
+    "additional_notes": "Founded by Carnegie Mellon researchers with 25+ years of cognitive science research. Adaptive intelligence and research-backed content would require years of R&D to replicate.",
+    "research_date": "2025-12-21T23:42:44.152924",
+    "total_spending": 16341463.68
+  },
+  {
+    "vendor_name": "EDUCATION IS FREEDOM",
+    "classification": "unknown",
+    "scores": {
+      "technical_buildability": 0,
+      "content_ip": 0,
+      "switching_cost": 0,
+      "market_alternatives": 0,
+      "data_portability": 0
+    },
+    "rationales": {
+      "technical_buildability": "Unknown - insufficient public information to assess technical complexity.",
+      "content_ip": "Unknown - cannot determine content/IP requirements without product details.",
+      "switching_cost": "Unknown - requires investigation of actual products and usage.",
+      "market_alternatives": "Unknown - cannot assess without knowing what products/services are provided.",
+      "data_portability": "Unknown - data format and export capabilities not determinable."
+    },
+    "composite_score": 0.0,
+    "replaceability_level": "unknown",
+    "service_breakdown": {
+      "software_licensing": 0,
+      "professional_development": 0,
+      "content_licensing": 0,
+      "hardware_materials": 0,
+      "ongoing_services": 0
+    },
+    "criticality": "supplementary",
+    "user_footprint": {
+      "teachers": 0,
+      "students": 0,
+      "admin": 0
+    },
+    "research_confidence": "unknown",
+    "primary_products": ["Information not publicly available"],
+    "product_descriptions": "Unable to identify specific educational technology products or services from this vendor through standard research channels. The name may refer to a smaller regional provider, a subsidiary of a larger company, or a program/initiative name.",
+    "target_use_case": "Unknown - insufficient public information available",
+    "additional_notes": "NEEDS RESEARCH: $12.7M spending over 4 years warrants manual investigation. Recommend checking Dallas ISD procurement records or vendor databases for actual products/services. Flagged for follow-up.",
+    "research_date": "2025-12-21T23:42:54.755682",
+    "total_spending": 12709367.52
+  },
+  {
+    "vendor_name": "EDUCATION SERVICE CENTER REGION 10",
+    "classification": "services",
+    "scores": {
+      "technical_buildability": 0,
+      "content_ip": 0,
+      "switching_cost": 0,
+      "market_alternatives": 0,
+      "data_portability": 0
+    },
+    "rationales": {
+      "technical_buildability": "N/A - Primarily human-delivered professional services, not software.",
+      "content_ip": "N/A - Services organization, expertise-based rather than content/IP.",
+      "switching_cost": "N/A - Government service organization, relationships-based.",
+      "market_alternatives": "N/A - Regional Education Service Centers are quasi-governmental entities.",
+      "data_portability": "N/A - No significant proprietary data systems."
+    },
+    "composite_score": 0.0,
+    "replaceability_level": "none",
+    "service_breakdown": {
+      "software_licensing": 5,
+      "professional_development": 50,
+      "content_licensing": 5,
+      "hardware_materials": 5,
+      "ongoing_services": 35
+    },
+    "criticality": "important",
+    "user_footprint": {
+      "teachers": 8000,
+      "students": 0,
+      "admin": 500
+    },
+    "research_confidence": "high",
+    "primary_products": ["Professional development services", "Educational consulting", "Technology integration support", "Curriculum and instruction services", "Administrative services", "Cooperative purchasing programs"],
+    "product_descriptions": "ESC Region 10 is one of Texas's 20 regional education service centers providing comprehensive educational services including professional development, consulting, technology support, and cooperative purchasing.",
+    "target_use_case": "ESCs serve as intermediaries between TEA and local districts, providing professional development, consulting, technology integration support, and coordinating group purchasing.",
+    "additional_notes": "Quasi-governmental entity established by Texas law. Not a traditional EdTech vendor - primarily human services. Replaceability is not applicable for software analysis.",
+    "research_date": "2025-12-21T23:43:04.752991",
+    "total_spending": 10999471.23
+  },
+  {
+    "vendor_name": "CURRICULUM ASSOCIATES LLC",
+    "classification": "curriculum_platform",
+    "scores": {
+      "technical_buildability": 2,
+      "content_ip": 1,
+      "switching_cost": 2,
+      "market_alternatives": 3,
+      "data_portability": 3
+    },
+    "rationales": {
+      "technical_buildability": "i-Ready's adaptive diagnostic engine and personalized learning paths require sophisticated algorithms developed over decades. Not standard CRUD.",
+      "content_ip": "Comprehensive K-8 curriculum and assessment items developed since 1969. Proprietary diagnostic assessments and learning progressions.",
+      "switching_cost": "Deeply integrated into RTI programs and instructional workflows. Diagnostic data drives instruction across district.",
+      "market_alternatives": "Several competitors (Renaissance, NWEA MAP) but i-Ready has strong market position for combined diagnostic + instruction.",
+      "data_portability": "Diagnostic scores and growth data exportable. Learning path algorithms and item banks are proprietary."
+    },
+    "composite_score": 2.15,
+    "replaceability_level": "low",
+    "service_breakdown": {
+      "software_licensing": 45,
+      "professional_development": 10,
+      "content_licensing": 40,
+      "hardware_materials": 0,
+      "ongoing_services": 5
+    },
+    "criticality": "core",
+    "user_footprint": {
+      "teachers": 4000,
+      "students": 70000,
+      "admin": 150
+    },
+    "research_confidence": "high",
+    "primary_products": ["i-Ready Diagnostic & Instruction", "i-Ready Classroom Mathematics", "Ready Mathematics", "Ready Reading", "Teacher Toolbox"],
+    "product_descriptions": "Curriculum Associates offers the i-Ready platform combining adaptive diagnostic assessments with personalized online instruction in mathematics and reading for K-8.",
+    "target_use_case": "Comprehensive K-8 mathematics and reading instruction with adaptive diagnostics, personalized learning paths, progress monitoring, and data-driven instruction for RTI programs.",
+    "additional_notes": "Developing educational content since 1969. Products deeply integrated into core instructional practices. Replacement challenging technically, pedagogically, and operationally.",
+    "research_date": "2025-12-21T23:43:17.291899",
+    "total_spending": 9406044.8
+  },
+  {
+    "vendor_name": "SCHOLASTIC INC",
+    "classification": "curriculum_platform",
+    "scores": {
+      "technical_buildability": 3,
+      "content_ip": 1,
+      "switching_cost": 2,
+      "market_alternatives": 3,
+      "data_portability": 3
+    },
+    "rationales": {
+      "technical_buildability": "Platform infrastructure (digital libraries, assessment delivery) is moderate complexity. READ 180 intervention system more specialized.",
+      "content_ip": "Vast proprietary content library, leveled readers, and decades of educational content development. Research-based literacy programs are core IP.",
+      "switching_cost": "District-wide literacy programs deeply integrated. Teachers trained on intervention methodologies. Student reading levels tracked in system.",
+      "market_alternatives": "Competitors exist (Learning A-Z, Renaissance) but Scholastic's content breadth and intervention programs are differentiated.",
+      "data_portability": "Reading levels and progress data exportable. Content library and intervention protocols are proprietary."
+    },
+    "composite_score": 2.35,
+    "replaceability_level": "low",
+    "service_breakdown": {
+      "software_licensing": 30,
+      "professional_development": 10,
+      "content_licensing": 55,
+      "hardware_materials": 0,
+      "ongoing_services": 5
+    },
+    "criticality": "important",
+    "user_footprint": {
+      "teachers": 3000,
+      "students": 50000,
+      "admin": 100
+    },
+    "research_confidence": "high",
+    "primary_products": ["Scholastic Reading Inventory (SRI)", "READ 180", "System 44", "Scholastic Literacy Pro", "Math 180", "BookFlix", "TrueFlix", "Scholastic News Interactive"],
+    "product_descriptions": "Scholastic provides comprehensive literacy and reading intervention programs combining digital platforms with proprietary curriculum content, including adaptive assessment tools and intensive intervention programs.",
+    "target_use_case": "Literacy instruction, reading intervention, and assessment in K-12. Products support differentiated instruction, progress monitoring, and provide leveled reading materials.",
+    "additional_notes": "Business model is fundamentally content-driven. Competitive advantage is extensive content catalog and research-based intervention programs rather than software innovation.",
+    "research_date": "2025-12-21T23:43:32.649624",
+    "total_spending": 7718694.58
+  },
+  {
+    "vendor_name": "FOLLETT HIGHER EDUCATION GROUP INC",
+    "classification": "hybrid",
+    "scores": {
+      "technical_buildability": 3,
+      "content_ip": 4,
+      "switching_cost": 3,
+      "market_alternatives": 3,
+      "data_portability": 3
+    },
+    "rationales": {
+      "technical_buildability": "Library management (Destiny) uses standard cataloging patterns but requires MARC record handling, Z39.50 protocol support, and vendor integrations.",
+      "content_ip": "No proprietary educational content. Value is in platform features, integrations, and physical distribution network.",
+      "switching_cost": "Library catalog migration is manageable. Staff retraining moderate. Physical materials ordering process would need new vendor relationships.",
+      "market_alternatives": "Several library management alternatives exist (Alexandria, Koha open-source). eBook platforms also have competitors.",
+      "data_portability": "MARC records are standard format. Catalog data generally exportable. Some proprietary circulation history formats."
+    },
+    "composite_score": 3.2,
+    "replaceability_level": "medium",
+    "service_breakdown": {
+      "software_licensing": 35,
+      "professional_development": 5,
+      "content_licensing": 10,
+      "hardware_materials": 40,
+      "ongoing_services": 10
+    },
+    "criticality": "important",
+    "user_footprint": {
+      "teachers": 500,
+      "students": 80000,
+      "admin": 100
+    },
+    "research_confidence": "high",
+    "primary_products": ["Destiny Library Manager", "Titlewave Collection Development", "Follett Shelf eBook Platform", "Digital Content Services", "Library Services and Materials"],
+    "product_descriptions": "Follett provides comprehensive library management solutions including Destiny integrated library system, collection development tools, eBook platforms, and physical library materials.",
+    "target_use_case": "Library management and collection development - cataloging, circulation tracking, collection purchasing, student access to digital resources, and usage reporting.",
+    "additional_notes": "Spending includes both software licensing and physical materials purchasing. Platform could be replaced with open-source (Koha) but physical distribution relationships would need rebuilding.",
+    "research_date": "2025-12-21T23:43:43.099557",
+    "total_spending": 6957354.82
+  },
+  {
+    "vendor_name": "ENGAGE LEARNING INC dba",
+    "classification": "services",
+    "scores": {
+      "technical_buildability": 0,
+      "content_ip": 0,
+      "switching_cost": 0,
+      "market_alternatives": 0,
+      "data_portability": 0
+    },
+    "rationales": {
+      "technical_buildability": "N/A - Primarily curriculum distribution and implementation services, not software platform.",
+      "content_ip": "N/A - Distributes third-party curriculum (EngageNY/Eureka Math), not proprietary content.",
+      "switching_cost": "N/A - Services-based relationship rather than software dependency.",
+      "market_alternatives": "N/A - Multiple curriculum implementation consultants available.",
+      "data_portability": "N/A - No significant proprietary data systems."
+    },
+    "composite_score": 0.0,
+    "replaceability_level": "none",
+    "service_breakdown": {
+      "software_licensing": 5,
+      "professional_development": 40,
+      "content_licensing": 45,
+      "hardware_materials": 5,
+      "ongoing_services": 5
+    },
+    "criticality": "important",
+    "user_footprint": {
+      "teachers": 3000,
+      "students": 0,
+      "admin": 100
+    },
+    "research_confidence": "medium",
+    "primary_products": ["EngageNY curricula", "Eureka Math", "Great Minds curriculum materials", "ELA curriculum resources"],
+    "product_descriptions": "Engage Learning Inc operates as a distributor/implementer of standards-aligned curriculum materials, particularly EngageNY/Eureka Math curriculum, with professional development services.",
+    "target_use_case": "Curriculum delivery and implementation support for K-12, providing teachers with lesson plans, materials, and professional development for standards-aligned programs.",
+    "additional_notes": "Spending covers curriculum licensing and implementation services. While digital platforms could be built, core value is in curriculum content and implementation expertise.",
+    "research_date": "2025-12-21T23:43:53.952565",
+    "total_spending": 6439209.0
+  },
+  {
+    "vendor_name": "ABOVE AND BEYOND LEARNING INC",
+    "classification": "services",
+    "scores": {
+      "technical_buildability": 0,
+      "content_ip": 0,
+      "switching_cost": 0,
+      "market_alternatives": 0,
+      "data_portability": 0
+    },
+    "rationales": {
+      "technical_buildability": "N/A - Human-delivered professional development and consulting services.",
+      "content_ip": "N/A - Expertise-based services, not digital content.",
+      "switching_cost": "N/A - Consulting relationships can be transitioned.",
+      "market_alternatives": "N/A - Multiple PD providers available.",
+      "data_portability": "N/A - No significant data systems."
+    },
+    "composite_score": 0.0,
+    "replaceability_level": "none",
+    "service_breakdown": {
+      "software_licensing": 0,
+      "professional_development": 80,
+      "content_licensing": 5,
+      "hardware_materials": 0,
+      "ongoing_services": 15
+    },
+    "criticality": "supplementary",
+    "user_footprint": {
+      "teachers": 2000,
+      "students": 0,
+      "admin": 100
+    },
+    "research_confidence": "medium",
+    "primary_products": ["Professional development services", "Educational consulting", "Training programs", "Curriculum implementation support"],
+    "product_descriptions": "Above and Beyond Learning Inc provides professional development, training, and consulting services to school districts, focusing on curriculum implementation support and teacher training.",
+    "target_use_case": "Professional development and training services for educators, curriculum implementation support, and educational consulting to improve teaching practices.",
+    "additional_notes": "Not a software vendor - provides human-delivered services. Would require hiring educational consultants rather than software development to replace.",
+    "research_date": "2025-12-21T23:44:02.399154",
+    "total_spending": 6434121.0
+  },
+  {
+    "vendor_name": "METEOR EDUCATION LLC",
+    "classification": "platform",
+    "scores": {
+      "technical_buildability": 3,
+      "content_ip": 5,
+      "switching_cost": 2,
+      "market_alternatives": 3,
+      "data_portability": 3
+    },
+    "rationales": {
+      "technical_buildability": "SIS/LMS functionality involves significant complexity: state reporting integration, FERPA compliance, gradebook calculations, scheduling algorithms.",
+      "content_ip": "Platform-only - no proprietary curriculum content. Value is in software functionality.",
+      "switching_cost": "SIS contains critical student data. Migration requires careful data handling, staff retraining, and timing (summer only).",
+      "market_alternatives": "Several SIS options (PowerSchool, Infinite Campus, Skyward). LMS options also plentiful (Canvas, Schoology).",
+      "data_portability": "Student data should be exportable in standard formats. State reporting formats are standardized."
+    },
+    "composite_score": 3.25,
+    "replaceability_level": "medium",
+    "service_breakdown": {
+      "software_licensing": 85,
+      "professional_development": 5,
+      "content_licensing": 0,
+      "hardware_materials": 0,
+      "ongoing_services": 10
+    },
+    "criticality": "core",
+    "user_footprint": {
+      "teachers": 8000,
+      "students": 150000,
+      "admin": 500
+    },
+    "research_confidence": "medium",
+    "primary_products": ["Meteor Community Online", "Student Information System", "Learning Management Platform"],
+    "product_descriptions": "Meteor Education provides a comprehensive student information system and learning management platform integrating student data management, gradebook, attendance tracking, and parent/student portals.",
+    "target_use_case": "Central data hub for schools - managing enrollment, grades, attendance, scheduling, and parent/student communications. Also serves as LMS for assignment management.",
+    "additional_notes": "Smaller regional vendor focused on Texas districts. Mission-critical system requiring high reliability. Build-vs-buy decision would need careful state reporting and compliance analysis.",
+    "research_date": "2025-12-21T23:44:13.166642",
+    "total_spending": 6096384.16
+  },
+  {
+    "vendor_name": "PROTECT EDUCATION",
+    "classification": "platform",
+    "scores": {
+      "technical_buildability": 3,
+      "content_ip": 5,
+      "switching_cost": 3,
+      "market_alternatives": 3,
+      "data_portability": 3
+    },
+    "rationales": {
+      "technical_buildability": "Core platform (reporting, case management) is moderate complexity. Threat assessment protocols and law enforcement integrations add specialized requirements.",
+      "content_ip": "No proprietary content - platform functionality only. Value is in safety protocols and integrations.",
+      "switching_cost": "Safety systems require careful transition. Staff training on new protocols. Integration with emergency services needs coordination.",
+      "market_alternatives": "Several school safety platforms exist (Raptor, Navigate360, Sandy Hook Promise). Growing market.",
+      "data_portability": "Safety reports and tip data should be exportable. Integration protocols may vary by platform."
+    },
+    "composite_score": 3.4,
+    "replaceability_level": "medium",
+    "service_breakdown": {
+      "software_licensing": 60,
+      "professional_development": 20,
+      "content_licensing": 0,
+      "hardware_materials": 5,
+      "ongoing_services": 15
+    },
+    "criticality": "important",
+    "user_footprint": {
+      "teachers": 8000,
+      "students": 100000,
+      "admin": 300
+    },
+    "research_confidence": "medium",
+    "primary_products": ["Student safety and threat assessment software", "Anonymous reporting platforms", "Crisis management systems", "Safety communication tools"],
+    "product_descriptions": "Digital platforms for student safety through threat assessment, anonymous reporting, crisis response coordination, and safety-focused communication.",
+    "target_use_case": "Student safety management, anonymous tip reporting, threat assessment workflows, crisis response coordination, and secure safety communications.",
+    "additional_notes": "Specialized domain requiring expertise in threat assessment and emergency response. Liability considerations important for build-vs-buy analysis.",
+    "research_date": "2025-12-21T23:44:22.577796",
+    "total_spending": 5302244.0
+  },
+  {
+    "vendor_name": "ALL IN LEARNING",
+    "classification": "services",
+    "scores": {
+      "technical_buildability": 0,
+      "content_ip": 0,
+      "switching_cost": 0,
+      "market_alternatives": 0,
+      "data_portability": 0
+    },
+    "rationales": {
+      "technical_buildability": "N/A - Professional development and consulting services, not software.",
+      "content_ip": "N/A - Expertise-based services.",
+      "switching_cost": "N/A - Service provider relationship.",
+      "market_alternatives": "N/A - Multiple PD consultants available.",
+      "data_portability": "N/A - No data systems."
+    },
+    "composite_score": 0.0,
+    "replaceability_level": "none",
+    "service_breakdown": {
+      "software_licensing": 0,
+      "professional_development": 85,
+      "content_licensing": 5,
+      "hardware_materials": 0,
+      "ongoing_services": 10
+    },
+    "criticality": "supplementary",
+    "user_footprint": {
+      "teachers": 2000,
+      "students": 0,
+      "admin": 50
+    },
+    "research_confidence": "low",
+    "primary_products": ["Professional development services", "Educational consulting", "Teacher training programs", "Curriculum implementation support"],
+    "product_descriptions": "All In Learning provides professional development and educational consulting including teacher training, curriculum implementation support, and instructional coaching.",
+    "target_use_case": "Professional development for educators, curriculum implementation support, instructional coaching, and educational program consultation.",
+    "additional_notes": "Limited public information. May be misclassified as EdTech if primarily human services. Requires verification of actual services provided.",
+    "research_date": "2025-12-21T23:44:31.135077",
+    "total_spending": 4957314.0
+  },
+  {
+    "vendor_name": "EDUCATION LOGISTICS INC",
+    "classification": "platform",
+    "scores": {
+      "technical_buildability": 3,
+      "content_ip": 5,
+      "switching_cost": 3,
+      "market_alternatives": 3,
+      "data_portability": 4
+    },
+    "rationales": {
+      "technical_buildability": "Route optimization algorithms, GPS integration, and real-time tracking require specialized knowledge. Transportation regulations add complexity.",
+      "content_ip": "No proprietary content - platform and algorithms only.",
+      "switching_cost": "Fleet management data migration, driver retraining, GPS hardware considerations. Best done during summer.",
+      "market_alternatives": "Several transportation management vendors (Tyler Technologies, Transfinder, Versatrans). Competitive market.",
+      "data_portability": "Route data, student assignments generally exportable. GPS integration may require hardware considerations."
+    },
+    "composite_score": 3.55,
+    "replaceability_level": "medium",
+    "service_breakdown": {
+      "software_licensing": 60,
+      "professional_development": 10,
+      "content_licensing": 0,
+      "hardware_materials": 20,
+      "ongoing_services": 10
+    },
+    "criticality": "important",
+    "user_footprint": {
+      "teachers": 0,
+      "students": 80000,
+      "admin": 200
+    },
+    "research_confidence": "high",
+    "primary_products": ["Student transportation management software", "Bus routing and scheduling systems", "GPS tracking and fleet management", "Parent notification systems", "Driver management tools"],
+    "product_descriptions": "Education Logistics provides comprehensive student transportation management including route optimization, GPS tracking, driver scheduling, and parent communications.",
+    "target_use_case": "Managing district transportation operations - route planning, real-time vehicle tracking, driver scheduling, parent notifications, and fleet management.",
+    "additional_notes": "Spending includes hardware costs (GPS units, tablets) and software. Route optimization algorithms are available but require domain knowledge to implement effectively.",
+    "research_date": "2025-12-21T23:44:41.980755",
+    "total_spending": 3792374.45
+  },
+  {
+    "vendor_name": "IMAGINE LEARNING, LLC",
+    "classification": "curriculum_platform",
+    "scores": {
+      "technical_buildability": 2,
+      "content_ip": 1,
+      "switching_cost": 3,
+      "market_alternatives": 3,
+      "data_portability": 3
+    },
+    "rationales": {
+      "technical_buildability": "Adaptive algorithms for personalized learning paths, gamification, and multi-language support require significant development effort.",
+      "content_ip": "Extensive curated content across subjects and languages. Specialized ELL content represents years of development.",
+      "switching_cost": "Supplemental tool - lower switching cost than core curriculum. Student progress data would need migration.",
+      "market_alternatives": "Several adaptive learning competitors (DreamBox, IXL, Newsela). ELL-focused alternatives more limited.",
+      "data_portability": "Student progress data exportable. Adaptive learning paths are platform-specific."
+    },
+    "composite_score": 2.35,
+    "replaceability_level": "low",
+    "service_breakdown": {
+      "software_licensing": 55,
+      "professional_development": 10,
+      "content_licensing": 30,
+      "hardware_materials": 0,
+      "ongoing_services": 5
+    },
+    "criticality": "important",
+    "user_footprint": {
+      "teachers": 2000,
+      "students": 40000,
+      "admin": 50
+    },
+    "research_confidence": "high",
+    "primary_products": ["Imagine Learning English (ELL/ESL)", "Imagine Math", "Imagine Reading", "Imagine MyPath", "Imagine Espanol", "Imagine Science Corner", "Imagine Purpose Prep"],
+    "product_descriptions": "Imagine Learning provides adaptive, personalized learning platforms for language arts, mathematics, and English language learning with gamified interfaces and comprehensive progress tracking.",
+    "target_use_case": "Supplemental and intervention instruction through adaptive platforms. Primarily ELL support, math intervention, and personalized learning pathways.",
+    "additional_notes": "Strength in serving diverse student populations, particularly ELL students. Content creation requires substantial pedagogical and multimedia production expertise.",
+    "research_date": "2025-12-21T23:44:55.198020",
+    "total_spending": 3303668.31
+  },
+  {
+    "vendor_name": "FRONTLINE EDUCATION",
+    "classification": "hybrid",
+    "scores": {
+      "technical_buildability": 3,
+      "content_ip": 5,
+      "switching_cost": 2,
+      "market_alternatives": 3,
+      "data_portability": 3
+    },
+    "rationales": {
+      "technical_buildability": "HR workflows are standard but K-12 specific requirements (substitute management, certification tracking, state reporting) add complexity.",
+      "content_ip": "No proprietary content - platform functionality for HR management.",
+      "switching_cost": "HR data migration, staff retraining on new workflows, integration with existing SIS/payroll systems.",
+      "market_alternatives": "Competitors exist (Absence Management, PowerSchool Unified Talent) but Frontline has strong K-12 market position.",
+      "data_portability": "Employee records, absence history exportable. State reporting formats are standardized."
+    },
+    "composite_score": 3.25,
+    "replaceability_level": "medium",
+    "service_breakdown": {
+      "software_licensing": 75,
+      "professional_development": 10,
+      "content_licensing": 0,
+      "hardware_materials": 0,
+      "ongoing_services": 15
+    },
+    "criticality": "important",
+    "user_footprint": {
+      "teachers": 10000,
+      "students": 0,
+      "admin": 1000
+    },
+    "research_confidence": "high",
+    "primary_products": ["Frontline Insights", "Frontline Professional Growth", "Frontline Absence Management", "Frontline Recruiting & Hiring", "Frontline Central", "Frontline Employee Management", "Special Education Manager"],
+    "product_descriptions": "Frontline Education provides comprehensive HR and administrative management platforms for K-12 including substitute management, absence tracking, professional development, recruiting, and special education management.",
+    "target_use_case": "K-12 administrative operations - managing absences and substitutes, tracking professional development, recruiting and hiring, HR records, compliance, and special education documentation.",
+    "additional_notes": "Serves 13,000+ school systems. K-12 domain expertise and interconnected module suite would require significant effort to replicate. Individual modules more feasible.",
+    "research_date": "2025-12-21T23:45:07.845563",
+    "total_spending": 2671524.23
+  },
+  {
+    "vendor_name": "TUTOR ME EDUCATION",
+    "classification": "services",
+    "scores": {
+      "technical_buildability": 0,
+      "content_ip": 0,
+      "switching_cost": 0,
+      "market_alternatives": 0,
+      "data_portability": 0
+    },
+    "rationales": {
+      "technical_buildability": "N/A - Human tutoring services, not software platform.",
+      "content_ip": "N/A - Value is in tutor expertise, not digital content.",
+      "switching_cost": "N/A - Tutoring relationships can be transitioned.",
+      "market_alternatives": "N/A - Multiple tutoring providers available.",
+      "data_portability": "N/A - Minimal data systems."
+    },
+    "composite_score": 0.0,
+    "replaceability_level": "none",
+    "service_breakdown": {
+      "software_licensing": 5,
+      "professional_development": 5,
+      "content_licensing": 0,
+      "hardware_materials": 0,
+      "ongoing_services": 90
+    },
+    "criticality": "supplementary",
+    "user_footprint": {
+      "teachers": 0,
+      "students": 5000,
+      "admin": 20
+    },
+    "research_confidence": "high",
+    "primary_products": ["One-on-one tutoring services", "Small group tutoring", "Virtual tutoring sessions", "Academic support programs"],
+    "product_descriptions": "Tutor Me Education provides personalized tutoring services with human tutors offering both in-person and virtual sessions across various subjects.",
+    "target_use_case": "Supplemental academic support for struggling students, remediation, test preparation, and academic recovery programs.",
+    "additional_notes": "Human service delivery model. Software cannot replace personalized human instruction. Replication would require hiring and managing tutoring staff.",
+    "research_date": "2025-12-21T23:45:17.884659",
+    "total_spending": 2608374.67
+  },
+  {
+    "vendor_name": "LEARNING A-Z",
+    "classification": "curriculum_platform",
+    "scores": {
+      "technical_buildability": 4,
+      "content_ip": 1,
+      "switching_cost": 3,
+      "market_alternatives": 3,
+      "data_portability": 4
+    },
+    "rationales": {
+      "technical_buildability": "Platform (content delivery, progress tracking, assessments) uses standard patterns. Relatively straightforward to build.",
+      "content_ip": "Massive library of leveled books (29 levels, thousands of titles), lesson plans, and assessments. Requires professional writers, illustrators, and curriculum experts.",
+      "switching_cost": "Supplemental literacy tool. Teacher retraining and student reading level data migration needed but manageable.",
+      "market_alternatives": "Competitors exist (Scholastic, Epic!, ReadWorks) but Learning A-Z's leveling system is well-established.",
+      "data_portability": "Reading levels and progress data exportable in standard formats."
+    },
+    "composite_score": 2.85,
+    "replaceability_level": "low",
+    "service_breakdown": {
+      "software_licensing": 30,
+      "professional_development": 5,
+      "content_licensing": 60,
+      "hardware_materials": 0,
+      "ongoing_services": 5
+    },
+    "criticality": "important",
+    "user_footprint": {
+      "teachers": 2500,
+      "students": 45000,
+      "admin": 50
+    },
+    "research_confidence": "high",
+    "primary_products": ["Reading A-Z", "Raz-Kids", "Raz-Plus", "Science A-Z", "Vocabulary A-Z", "Writing A-Z", "ELL Edition", "Headsprout"],
+    "product_descriptions": "Learning A-Z provides comprehensive literacy platforms with thousands of leveled books, interactive eBooks, lesson plans, assessments, and adaptive learning tools for K-6.",
+    "target_use_case": "Literacy instruction and reading intervention in K-6. Teachers assign leveled materials, track progress, and access lesson plans while students read and complete activities.",
+    "additional_notes": "Platform is straightforward to build; content library is the competitive moat. Would need extensive content creation or licensing to replace.",
+    "research_date": "2025-12-21T23:45:31.439721",
+    "total_spending": 2505737.4
+  },
+  {
+    "vendor_name": "ILLUMINATE EDUCATION, INC.",
+    "classification": "platform",
+    "scores": {
+      "technical_buildability": 3,
+      "content_ip": 3,
+      "switching_cost": 3,
+      "market_alternatives": 3,
+      "data_portability": 3
+    },
+    "rationales": {
+      "technical_buildability": "Assessment delivery and basic analytics are standard. Psychometric analysis, data warehousing, and state assessment integrations add complexity.",
+      "content_ip": "Extensive assessment item banks require psychometric expertise. Item development is specialized work but not proprietary algorithms.",
+      "switching_cost": "Assessment data and historical trends need migration. Staff retraining on new dashboards. RTI/MTSS workflows dependent on platform.",
+      "market_alternatives": "Competitors include NWEA MAP, Renaissance Star, SchoolCity. Active market segment.",
+      "data_portability": "Assessment results exportable. Item banks and analytics algorithms are platform-specific."
+    },
+    "composite_score": 3.0,
+    "replaceability_level": "medium",
+    "service_breakdown": {
+      "software_licensing": 70,
+      "professional_development": 10,
+      "content_licensing": 15,
+      "hardware_materials": 0,
+      "ongoing_services": 5
+    },
+    "criticality": "important",
+    "user_footprint": {
+      "teachers": 5000,
+      "students": 80000,
+      "admin": 200
+    },
+    "research_confidence": "high",
+    "primary_products": ["DnA (Data and Assessment)", "FastBridge assessments", "SchoolCity suite", "Educlimber analytics"],
+    "product_descriptions": "Illuminate Education provides K-12 assessment and data analytics platforms including benchmark assessments, item banking, data warehousing, and analytics dashboards.",
+    "target_use_case": "Interim/benchmark assessments, data-driven instruction, RTI/MTSS implementation, progress monitoring, and district-wide analytics for identifying at-risk students.",
+    "additional_notes": "Major player in K-12 assessment. Psychometric expertise for valid assessment creation is specialized. Basic assessment functionality could be built more simply.",
+    "research_date": "2025-12-21T23:45:45.262472",
+    "total_spending": 2502724.81
+  },
+  {
+    "vendor_name": "SIRIUS EDUCATION SOLUTIONS",
+    "classification": "services",
+    "scores": {
+      "technical_buildability": 0,
+      "content_ip": 0,
+      "switching_cost": 0,
+      "market_alternatives": 0,
+      "data_portability": 0
+    },
+    "rationales": {
+      "technical_buildability": "N/A - Professional services, not software.",
+      "content_ip": "N/A - Expertise-based consulting.",
+      "switching_cost": "N/A - Consulting relationships.",
+      "market_alternatives": "N/A - Multiple consultants available.",
+      "data_portability": "N/A - No data systems."
+    },
+    "composite_score": 0.0,
+    "replaceability_level": "none",
+    "service_breakdown": {
+      "software_licensing": 0,
+      "professional_development": 70,
+      "content_licensing": 5,
+      "hardware_materials": 0,
+      "ongoing_services": 25
+    },
+    "criticality": "supplementary",
+    "user_footprint": {
+      "teachers": 1500,
+      "students": 0,
+      "admin": 50
+    },
+    "research_confidence": "medium",
+    "primary_products": ["Professional development services", "Educational consulting", "Training programs", "Implementation support"],
+    "product_descriptions": "Sirius Education Solutions provides professional development, educational consulting, staff training, and implementation support for educational initiatives.",
+    "target_use_case": "Professional development for educators, curriculum implementation support, instructional coaching, and organizational change management.",
+    "additional_notes": "Professional services company, not EdTech platform. Spending reflects consulting and PD contracts rather than software licensing.",
+    "research_date": "2025-12-21T23:45:54.744462",
+    "total_spending": 2461775.79
+  },
+  {
+    "vendor_name": "TORRES HENDERSON EDUCATION",
+    "classification": "services",
+    "scores": {
+      "technical_buildability": 0,
+      "content_ip": 0,
+      "switching_cost": 0,
+      "market_alternatives": 0,
+      "data_portability": 0
+    },
+    "rationales": {
+      "technical_buildability": "N/A - Consulting services, not software.",
+      "content_ip": "N/A - Human expertise.",
+      "switching_cost": "N/A - Professional relationships.",
+      "market_alternatives": "N/A - Consultant market.",
+      "data_portability": "N/A - No data systems."
+    },
+    "composite_score": 0.0,
+    "replaceability_level": "none",
+    "service_breakdown": {
+      "software_licensing": 0,
+      "professional_development": 60,
+      "content_licensing": 0,
+      "hardware_materials": 0,
+      "ongoing_services": 40
+    },
+    "criticality": "supplementary",
+    "user_footprint": {
+      "teachers": 1000,
+      "students": 0,
+      "admin": 100
+    },
+    "research_confidence": "medium",
+    "primary_products": ["Educational consulting services", "Professional development programs", "Curriculum implementation support", "Educational strategy consulting"],
+    "product_descriptions": "Torres Henderson Education provides professional development, curriculum implementation support, strategic planning services, and educational leadership development.",
+    "target_use_case": "Professional development, curriculum implementation consulting, educational leadership training, strategic planning, and instructional coaching.",
+    "additional_notes": "Educational services consultancy rather than technology vendor. Investment in human capital for district improvement initiatives.",
+    "research_date": "2025-12-21T23:46:04.824352",
+    "total_spending": 2387073.63
+  },
+  {
+    "vendor_name": "EDUCATION RESOURCE STRATEGIES",
+    "classification": "services",
+    "scores": {
+      "technical_buildability": 0,
+      "content_ip": 0,
+      "switching_cost": 0,
+      "market_alternatives": 0,
+      "data_portability": 0
+    },
+    "rationales": {
+      "technical_buildability": "N/A - Strategic consulting organization.",
+      "content_ip": "N/A - Expertise in educational finance and org design.",
+      "switching_cost": "N/A - Consulting engagement.",
+      "market_alternatives": "N/A - Strategic consulting firms available.",
+      "data_portability": "N/A - No proprietary data systems."
+    },
+    "composite_score": 0.0,
+    "replaceability_level": "none",
+    "service_breakdown": {
+      "software_licensing": 0,
+      "professional_development": 20,
+      "content_licensing": 0,
+      "hardware_materials": 0,
+      "ongoing_services": 80
+    },
+    "criticality": "supplementary",
+    "user_footprint": {
+      "teachers": 0,
+      "students": 0,
+      "admin": 200
+    },
+    "research_confidence": "high",
+    "primary_products": ["Strategic Consulting Services", "Data Analysis and Research", "Organizational Design Consulting", "Resource Allocation Planning", "Change Management Support"],
+    "product_descriptions": "ERS is a nonprofit consulting organization helping school districts strategically manage people, time, and money through data-driven consulting on resource allocation and organizational effectiveness.",
+    "target_use_case": "Strategic consulting - optimizing resource allocation, organizational redesign, spending analysis, strategic planning, and systemic change implementation.",
+    "additional_notes": "Nonprofit strategic consulting organization. Professional services cannot be replaced by software development - require specialized human expertise.",
+    "research_date": "2025-12-21T23:46:14.982765",
+    "total_spending": 2376000.0
+  },
+  {
+    "vendor_name": "CLASSWORK CO",
+    "classification": "platform",
+    "scores": {
+      "technical_buildability": 5,
+      "content_ip": 4,
+      "switching_cost": 4,
+      "market_alternatives": 5,
+      "data_portability": 4
+    },
+    "rationales": {
+      "technical_buildability": "Standard CRUD operations for assignment management, basic assessment, and progress tracking. Well-established patterns, 4-6 month build estimate.",
+      "content_ip": "Digital worksheets and practice materials. Content could be created or sourced from OER. Not heavily research-backed methodology.",
+      "switching_cost": "Supplementary tool with limited data dependencies. Teacher retraining minimal. Student progress data exportable.",
+      "market_alternatives": "Many competitors (Google Classroom, Canvas, Schoology, Nearpod). Open-source options exist. Crowded market.",
+      "data_portability": "Assignment data and grades easily exportable in standard formats."
+    },
+    "composite_score": 4.45,
+    "replaceability_level": "high",
+    "service_breakdown": {
+      "software_licensing": 70,
+      "professional_development": 5,
+      "content_licensing": 20,
+      "hardware_materials": 0,
+      "ongoing_services": 5
+    },
+    "criticality": "supplementary",
+    "user_footprint": {
+      "teachers": 1500,
+      "students": 30000,
+      "admin": 30
+    },
+    "research_confidence": "medium",
+    "primary_products": ["Digital curriculum materials", "Interactive worksheets and assignments", "Assessment tools", "Student progress tracking"],
+    "product_descriptions": "CLASSWORK CO provides digital educational content and worksheet platforms with interactive assignments, practice materials, and basic assessment tools for K-8.",
+    "target_use_case": "Supplemental curriculum delivery, homework assignments, practice exercises, and basic formative assessment with automatic scoring and progress tracking.",
+    "additional_notes": "HIGH replaceability - platform uses standard patterns that could be built in-house. Content would need sourcing but generic worksheets have many alternatives.",
+    "research_date": "2025-12-21T23:46:25.915759",
+    "total_spending": 2282328.0
+  }
+]

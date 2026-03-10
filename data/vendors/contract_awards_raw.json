@@ -1,0 +1,1021 @@
+[
+  {
+    "vendor_name": "EDUCATION SERVICE CENTER REGION 10",
+    "scraped_at": "2026-03-02T11:01:18.293218",
+    "site_vendor_name": "EDUCATION SERVICE CENTER REGION 10",
+    "awards": [
+      {
+        "category_code": "10985",
+        "category_description": "SOFTWARE SUBSCRIPTIONS, ANNUAL FEES, USER FEES, MAINTENANCE COSTS FEES, SITE LICENSE FEES, ETC. FOR SOFTWARE WITH NON-DISTRICT-WIDE BENEFITS (EXAMPLE: SOFTWARE THAT IS NOT CRITICAL TO THE DISTRICT?S DAILY OPERATIONS)",
+        "award_description": "Bid 208181, Region 10, 2020-12 - Education Software and Related Products and Services",
+        "effective_date": "2025-07-01",
+        "end_date": "2026-02-28"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "CURRICULUM ASSOCIATES LLC",
+    "scraped_at": "2026-03-02T11:01:26.507657",
+    "site_vendor_name": "CURRICULUM ASSOCIATES LLC",
+    "awards": [
+      {
+        "category_code": "20985",
+        "category_description": "SOFTWARE - ONLINE INSTRUCTIONAL CURRICULUM SOFTWARE SUBSCRIPTIONS",
+        "award_description": "Bid 208218, BDoc 8.11-10162025, Instructional Digital Tools & Contracted Services",
+        "effective_date": "2025-10-17",
+        "end_date": "2030-10-16"
+      },
+      {
+        "category_code": "80143",
+        "category_description": "SOFTWARE - CORE INSTRUCTIONAL",
+        "award_description": "Bid 208218, BDoc 8.11-10162025, Instructional Digital Tools & Contracted Services",
+        "effective_date": "2025-10-17",
+        "end_date": "2030-10-16"
+      },
+      {
+        "category_code": "80144",
+        "category_description": "SOFTWARE - SPECIALIZED ACADEMIC",
+        "award_description": "Bid 208218, BDoc 8.11-10162025, Instructional Digital Tools & Contracted Services",
+        "effective_date": "2025-10-17",
+        "end_date": "2030-10-16"
+      },
+      {
+        "category_code": "80145",
+        "category_description": "SOFTWARE - ASSESMENT & ANALYTIC TOOLS",
+        "award_description": "Bid 208218, BDoc 8.11-10162025, Instructional Digital Tools & Contracted Services",
+        "effective_date": "2025-10-17",
+        "end_date": "2030-10-16"
+      },
+      {
+        "category_code": "80145",
+        "category_description": "SOFTWARE - ASSESMENT & ANALYTIC TOOLS",
+        "award_description": "Bid 208228, Texas Education Agency Approved Vendors for Assessments",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80171",
+        "category_description": "INSTRUCTIONAL: TESTING MATERIALS",
+        "award_description": "Bid 208228, Texas Education Agency Approved Vendors for Assessments",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80172",
+        "category_description": "INSTRUCTIONAL: TESTING SERVICES",
+        "award_description": "Bid 208228, Texas Education Agency Approved Vendors for Assessments",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80389",
+        "category_description": "BOOKS: LIBRARY",
+        "award_description": "Bid 208218, BDoc 8.11-10162025, Instructional Digital Tools & Contracted Services",
+        "effective_date": "2025-10-17",
+        "end_date": "2030-10-16"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "SCHOLASTIC INC",
+    "scraped_at": "2026-03-02T11:01:42.990757",
+    "site_vendor_name": "SCHOLASTIC INC",
+    "awards": [
+      {
+        "category_code": "10776",
+        "category_description": "POSTER PRINTERS, SUPPLIES AND SERVICES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "20240",
+        "category_description": "CONSULTANT SERVICES - ACADEMIC",
+        "award_description": "Bid 207286, BDoc 9.06-08242023, (FED) Literacy and Math Support Services",
+        "effective_date": "2023-08-25",
+        "end_date": "2026-08-24"
+      },
+      {
+        "category_code": "20244",
+        "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+        "award_description": "Bid 207286, BDoc 9.06-08242023, (FED) Literacy and Math Support Services",
+        "effective_date": "2023-08-25",
+        "end_date": "2026-08-24"
+      },
+      {
+        "category_code": "20990",
+        "category_description": "TEACHING AND LEARNING AIDS.",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "21000",
+        "category_description": "INSTRUCTIONAL MATERIALS SUPPLIES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80102",
+        "category_description": "SCIENCE LAB SUPPLIES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80103",
+        "category_description": "SCIENCE LAB EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80152",
+        "category_description": "INSTRUCTIONAL: EARLY CHILDHOOD EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80155",
+        "category_description": "INSTRUCTIONAL: EARLY CHILDHOOD SUPPLIES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80156",
+        "category_description": "INSTRUCTIONAL EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80159",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION ADAPTIVE EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80160",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION ASSISTIVE TECHNOLOGY",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80161",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80166",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION SUPPLIES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "FOLLETT HIGHER EDUCATION GROUP INC",
+    "scraped_at": "2026-03-02T11:02:08.204675",
+    "site_vendor_name": "FOLLETT SCHOOL SOLUTIONS INC",
+    "awards": [
+      {
+        "category_code": "20130",
+        "category_description": "BOOKS; LIBRARY",
+        "award_description": "Bid 206442, BDoc 7.06-10282021, Library Print, Digital and Processing Services",
+        "effective_date": "2025-10-29",
+        "end_date": "2026-10-28"
+      },
+      {
+        "category_code": "80081",
+        "category_description": "BOOKS: ELECTRONIC / E-BOOKS",
+        "award_description": "Bid 206442, BDoc 7.06-10282021, Library Print, Digital and Processing Services",
+        "effective_date": "2025-10-29",
+        "end_date": "2026-10-28"
+      },
+      {
+        "category_code": "80082",
+        "category_description": "BOOKS: TEACHER EDITIONS (INSTRUCTIONAL MATERIALS)",
+        "award_description": "Bid 206442, BDoc 7.06-10282021, Library Print, Digital and Processing Services",
+        "effective_date": "2025-10-29",
+        "end_date": "2026-10-28"
+      },
+      {
+        "category_code": "80083",
+        "category_description": "BOOKS: HARDBACK / PAPERBACK",
+        "award_description": "Bid 206442, BDoc 7.06-10282021, Library Print, Digital and Processing Services",
+        "effective_date": "2025-10-29",
+        "end_date": "2026-10-28"
+      },
+      {
+        "category_code": "80084",
+        "category_description": "BOOKS: MAGAZINE SUBSCRIPTIONS",
+        "award_description": "Bid 206442, BDoc 7.06-10282021, Library Print, Digital and Processing Services",
+        "effective_date": "2025-10-29",
+        "end_date": "2026-10-28"
+      },
+      {
+        "category_code": "80085",
+        "category_description": "BOOKS: PERIODICALS",
+        "award_description": "Bid 206442, BDoc 7.06-10282021, Library Print, Digital and Processing Services",
+        "effective_date": "2025-10-29",
+        "end_date": "2026-10-28"
+      },
+      {
+        "category_code": "80389",
+        "category_description": "BOOKS: LIBRARY",
+        "award_description": "Bid 206442, BDoc 7.06-10282021, Library Print, Digital and Processing Services",
+        "effective_date": "2025-10-29",
+        "end_date": "2026-10-28"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "ENGAGE LEARNING INC dba",
+    "scraped_at": "2026-03-02T11:02:23.591387",
+    "site_vendor_name": "ENGAGE LEARNING INC dba ENGAGE2LEARN",
+    "awards": [
+      {
+        "category_code": "20240",
+        "category_description": "CONSULTANT SERVICES - ACADEMIC",
+        "award_description": "Bid 207286, BDoc 9.06-08242023, (FED) Literacy and Math Support Services",
+        "effective_date": "2023-08-25",
+        "end_date": "2026-08-24"
+      },
+      {
+        "category_code": "20244",
+        "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+        "award_description": "Bid 207286, BDoc 9.06-08242023, (FED) Literacy and Math Support Services",
+        "effective_date": "2023-08-25",
+        "end_date": "2026-08-24"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "ABOVE AND BEYOND LEARNING INC",
+    "scraped_at": "2026-03-02T11:02:32.170294",
+    "site_vendor_name": "ABOVE AND BEYOND LEARNING INC",
+    "awards": [
+      {
+        "category_code": "20240",
+        "category_description": "CONSULTANT SERVICES - ACADEMIC",
+        "award_description": "Bid 206507, BDoc 7.07-11182021, Tutoring Services and Professional Development for Reading and Math",
+        "effective_date": "2025-11-19",
+        "end_date": "2026-11-18"
+      },
+      {
+        "category_code": "20244",
+        "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+        "award_description": "Bid 206507, BDoc 7.07-11182021, Tutoring Services and Professional Development for Reading and Math",
+        "effective_date": "2025-11-19",
+        "end_date": "2026-11-18"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "METEOR EDUCATION LLC",
+    "scraped_at": "2026-03-02T15:56:07.454851",
+    "site_vendor_name": null,
+    "awards": [],
+    "error": "not_in_procurement_database"
+  },
+  {
+    "vendor_name": "PROTECT EDUCATION",
+    "scraped_at": "2026-03-02T15:56:07.454861",
+    "site_vendor_name": null,
+    "awards": [],
+    "error": "not_in_procurement_database"
+  },
+  {
+    "vendor_name": "ALL IN LEARNING",
+    "scraped_at": "2026-03-02T11:02:53.927396",
+    "site_vendor_name": "ALL IN LEARNING",
+    "awards": [
+      {
+        "category_code": "20240",
+        "category_description": "CONSULTANT SERVICES - ACADEMIC",
+        "award_description": "Bid 206575, BDoc 7.12-01272022, (FED) 206575 VIRTUAL ONLINE SCHOOL LEARNING SYSTEMS",
+        "effective_date": "2025-07-01",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "20985",
+        "category_description": "SOFTWARE - ONLINE INSTRUCTIONAL CURRICULUM SOFTWARE SUBSCRIPTIONS",
+        "award_description": "Bid 206575, BDoc 7.12-01272022, (FED) 206575 VIRTUAL ONLINE SCHOOL LEARNING SYSTEMS",
+        "effective_date": "2025-07-01",
+        "end_date": "2026-06-30"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "EDUCATION LOGISTICS INC",
+    "scraped_at": "2026-03-02T11:03:01.995379",
+    "site_vendor_name": "EDUCATION LOGISTICS INC",
+    "awards": [
+      {
+        "category_code": "10985",
+        "category_description": "SOFTWARE SUBSCRIPTIONS, ANNUAL FEES, USER FEES, MAINTENANCE COSTS FEES, SITE LICENSE FEES, ETC. FOR SOFTWARE WITH NON-DISTRICT-WIDE BENEFITS (EXAMPLE: SOFTWARE THAT IS NOT CRITICAL TO THE DISTRICT?S DAILY OPERATIONS)",
+        "award_description": "Bid 206766, BDoc 9.34-09292022, (FED) Student Transportation Systems",
+        "effective_date": "2025-09-30",
+        "end_date": "2026-09-29"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "IMAGINE LEARNING, LLC",
+    "scraped_at": "2026-03-02T11:03:09.195909",
+    "site_vendor_name": "IMAGINE LEARNING, LLC",
+    "awards": [
+      {
+        "category_code": "20240",
+        "category_description": "CONSULTANT SERVICES - ACADEMIC",
+        "award_description": "Bid 206575, BDoc 7.12-01272022, (FED) 206575 VIRTUAL ONLINE SCHOOL LEARNING SYSTEMS",
+        "effective_date": "2025-07-01",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "20985",
+        "category_description": "SOFTWARE - ONLINE INSTRUCTIONAL CURRICULUM SOFTWARE SUBSCRIPTIONS",
+        "award_description": "Bid 206575, BDoc 7.12-01272022, (FED) 206575 VIRTUAL ONLINE SCHOOL LEARNING SYSTEMS",
+        "effective_date": "2025-07-01",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "20985",
+        "category_description": "SOFTWARE - ONLINE INSTRUCTIONAL CURRICULUM SOFTWARE SUBSCRIPTIONS",
+        "award_description": "Bid 207957, BDoc 9.27-06262025, (FED) Credit Recovery and Acceleration Online Curriculum",
+        "effective_date": "2025-06-27",
+        "end_date": "2028-06-26"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "FRONTLINE EDUCATION",
+    "scraped_at": "2026-03-02T11:03:18.601814",
+    "site_vendor_name": "FRONTLINE EDUCATION",
+    "awards": [
+      {
+        "category_code": "10985",
+        "category_description": "SOFTWARE SUBSCRIPTIONS, ANNUAL FEES, USER FEES, MAINTENANCE COSTS FEES, SITE LICENSE FEES, ETC. FOR SOFTWARE WITH NON-DISTRICT-WIDE BENEFITS (EXAMPLE: SOFTWARE THAT IS NOT CRITICAL TO THE DISTRICT?S DAILY OPERATIONS)",
+        "award_description": "Bid 207653, BDoc 10.03-10242024, Software Products and Services",
+        "effective_date": "2024-10-25",
+        "end_date": "2027-10-24"
+      },
+      {
+        "category_code": "80068",
+        "category_description": "ASSET MANAGEMENT SOFTWARE",
+        "award_description": "Bid 208103, Omnia Partners - Contract # R240306 Software Solutions and Services",
+        "effective_date": "2025-07-01",
+        "end_date": "2026-06-30"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "TUTOR ME EDUCATION",
+    "scraped_at": "2026-03-02T11:03:26.817322",
+    "site_vendor_name": "TUTOR ME EDUCATION",
+    "awards": [
+      {
+        "category_code": "20240",
+        "category_description": "CONSULTANT SERVICES - ACADEMIC",
+        "award_description": "Bid 206507, BDoc 7.07-11182021, Tutoring Services and Professional Development for Reading and Math",
+        "effective_date": "2025-11-19",
+        "end_date": "2026-11-18"
+      },
+      {
+        "category_code": "20244",
+        "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+        "award_description": "Bid 206507, BDoc 7.07-11182021, Tutoring Services and Professional Development for Reading and Math",
+        "effective_date": "2025-11-19",
+        "end_date": "2026-11-18"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "LEARNING A-Z",
+    "scraped_at": "2026-03-02T11:03:35.220889",
+    "site_vendor_name": "LEARNING A-Z",
+    "awards": [
+      {
+        "category_code": "20240",
+        "category_description": "CONSULTANT SERVICES - ACADEMIC",
+        "award_description": "Bid 206507, BDoc 7.07-11182021, Tutoring Services and Professional Development for Reading and Math",
+        "effective_date": "2025-11-19",
+        "end_date": "2026-11-18"
+      },
+      {
+        "category_code": "20244",
+        "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+        "award_description": "Bid 206807, BDoc 9.08-09292022, (FED) SPED Instructional Materials & Other Related Products",
+        "effective_date": "2025-09-30",
+        "end_date": "2026-09-29"
+      },
+      {
+        "category_code": "20244",
+        "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+        "award_description": "Bid 206507, BDoc 7.07-11182021, Tutoring Services and Professional Development for Reading and Math",
+        "effective_date": "2025-11-19",
+        "end_date": "2026-11-18"
+      },
+      {
+        "category_code": "20985",
+        "category_description": "SOFTWARE - ONLINE INSTRUCTIONAL CURRICULUM SOFTWARE SUBSCRIPTIONS",
+        "award_description": "Bid 206807, BDoc 9.08-09292022, (FED) SPED Instructional Materials & Other Related Products",
+        "effective_date": "2025-09-30",
+        "end_date": "2026-09-29"
+      },
+      {
+        "category_code": "80159",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION ADAPTIVE EQUIPMENT",
+        "award_description": "Bid 206807, BDoc 9.08-09292022, (FED) SPED Instructional Materials & Other Related Products",
+        "effective_date": "2025-09-30",
+        "end_date": "2026-09-29"
+      },
+      {
+        "category_code": "80160",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION ASSISTIVE TECHNOLOGY",
+        "award_description": "Bid 206807, BDoc 9.08-09292022, (FED) SPED Instructional Materials & Other Related Products",
+        "effective_date": "2025-09-30",
+        "end_date": "2026-09-29"
+      },
+      {
+        "category_code": "80161",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION EQUIPMENT",
+        "award_description": "Bid 206807, BDoc 9.08-09292022, (FED) SPED Instructional Materials & Other Related Products",
+        "effective_date": "2025-09-30",
+        "end_date": "2026-09-29"
+      },
+      {
+        "category_code": "80163",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION HEARING DEVICES & SUPPLIES",
+        "award_description": "Bid 206807, BDoc 9.08-09292022, (FED) SPED Instructional Materials & Other Related Products",
+        "effective_date": "2025-09-30",
+        "end_date": "2026-09-29"
+      },
+      {
+        "category_code": "80164",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION VISUAL DEVICES & SUPPLIES",
+        "award_description": "Bid 206807, BDoc 9.08-09292022, (FED) SPED Instructional Materials & Other Related Products",
+        "effective_date": "2025-09-30",
+        "end_date": "2026-09-29"
+      },
+      {
+        "category_code": "80166",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION SUPPLIES",
+        "award_description": "Bid 206807, BDoc 9.08-09292022, (FED) SPED Instructional Materials & Other Related Products",
+        "effective_date": "2025-09-30",
+        "end_date": "2026-09-29"
+      },
+      {
+        "category_code": "80167",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION SUPPLIES - CULINARY",
+        "award_description": "Bid 206807, BDoc 9.08-09292022, (FED) SPED Instructional Materials & Other Related Products",
+        "effective_date": "2025-09-30",
+        "end_date": "2026-09-29"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "ILLUMINATE EDUCATION, INC.",
+    "scraped_at": "2026-03-02T15:56:07.454862",
+    "site_vendor_name": null,
+    "awards": [],
+    "error": "not_in_procurement_database"
+  },
+  {
+    "vendor_name": "SIRIUS EDUCATION SOLUTIONS",
+    "scraped_at": "2026-03-02T15:56:07.454864",
+    "site_vendor_name": null,
+    "awards": [],
+    "error": "not_in_procurement_database"
+  },
+  {
+    "vendor_name": "TORRES HENDERSON EDUCATION",
+    "scraped_at": "2026-03-02T15:56:07.454865",
+    "site_vendor_name": null,
+    "awards": [],
+    "error": "not_in_procurement_database"
+  },
+  {
+    "vendor_name": "EDUCATION RESOURCE STRATEGIES",
+    "scraped_at": "2026-03-02T11:04:16.982460",
+    "site_vendor_name": "EDUCATION RESOURCE STRATEGIES, INC.",
+    "awards": [
+      {
+        "category_code": "20244",
+        "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+        "award_description": "Bid 207210, BDoc 7.08-06222023, (FED) Racial Equity Consulting and Professional Development",
+        "effective_date": "2023-06-23",
+        "end_date": "2026-06-22"
+      },
+      {
+        "category_code": "50241",
+        "category_description": "CONSULTANT SERVICES - BUSINESS",
+        "award_description": "Bid 207210, BDoc 7.08-06222023, (FED) Racial Equity Consulting and Professional Development",
+        "effective_date": "2023-06-23",
+        "end_date": "2026-06-22"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "CLASSWORK CO",
+    "scraped_at": "2026-03-02T15:56:07.454866",
+    "site_vendor_name": null,
+    "awards": [],
+    "error": "not_in_procurement_database"
+  },
+  {
+    "vendor_name": "AMPLIFY EDUCATION INC",
+    "scraped_at": "2026-03-03T05:18:02.956Z",
+    "site_vendor_name": "name denotes a SBE supplier",
+    "awards": [
+      {
+        "category_code": "10776",
+        "category_description": "POSTER PRINTERS, SUPPLIES AND SERVICES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "20240",
+        "category_description": "CONSULTANT SERVICES - ACADEMIC",
+        "award_description": "Bid 206993, BDoc 9.23-06232022, TEA for Contracted Services/Professional Development",
+        "effective_date": "2022-06-24",
+        "end_date": "2027-06-30"
+      },
+      {
+        "category_code": "20244",
+        "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+        "award_description": "Bid 206993, BDoc 9.23-06232022, TEA for Contracted Services/Professional Development",
+        "effective_date": "2022-06-24",
+        "end_date": "2027-06-30"
+      },
+      {
+        "category_code": "20990",
+        "category_description": "TEACHING AND LEARNING AIDS.",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "21000",
+        "category_description": "INSTRUCTIONAL MATERIALS SUPPLIES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "21000",
+        "category_description": "INSTRUCTIONAL MATERIALS SUPPLIES",
+        "award_description": "Bid 208194, Buyboard RFP 748-24 Instructional Materials (Non-Adopted) for PK-12, Special Education, and Career and Technology",
+        "effective_date": "2025-08-04",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80102",
+        "category_description": "SCIENCE LAB SUPPLIES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80103",
+        "category_description": "SCIENCE LAB EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80144",
+        "category_description": "SOFTWARE - SPECIALIZED ACADEMIC",
+        "award_description": "Bid 208194, Buyboard RFP 748-24 Instructional Materials (Non-Adopted) for PK-12, Special Education, and Career and Technology",
+        "effective_date": "2025-08-04",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80145",
+        "category_description": "SOFTWARE - ASSESMENT & ANALYTIC TOOLS",
+        "award_description": "Bid 208194, Buyboard RFP 748-24 Instructional Materials (Non-Adopted) for PK-12, Special Education, and Career and Technology",
+        "effective_date": "2025-08-04",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80152",
+        "category_description": "INSTRUCTIONAL: EARLY CHILDHOOD EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80155",
+        "category_description": "INSTRUCTIONAL: EARLY CHILDHOOD SUPPLIES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80156",
+        "category_description": "INSTRUCTIONAL EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80159",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION ADAPTIVE EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80160",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION ASSISTIVE TECHNOLOGY",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80161",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80166",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION SUPPLIES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "CARNEGIE LEARNING INC",
+    "scraped_at": "2026-03-03T05:19:15.424Z",
+    "site_vendor_name": "name denotes a SBE supplier",
+    "awards": [
+      {
+        "category_code": "20240",
+        "category_description": "CONSULTANT SERVICES - ACADEMIC",
+        "award_description": "Bid 206507, BDoc 7.07-11182021, Tutoring Services and Professional Development for Reading and Math",
+        "effective_date": "2025-11-19",
+        "end_date": "2026-11-18"
+      },
+      {
+        "category_code": "20240",
+        "category_description": "CONSULTANT SERVICES - ACADEMIC",
+        "award_description": "Bid 206993, BDoc 9.23-06232022, TEA for Contracted Services/Professional Development",
+        "effective_date": "2022-06-24",
+        "end_date": "2027-06-30"
+      },
+      {
+        "category_code": "20240",
+        "category_description": "CONSULTANT SERVICES - ACADEMIC",
+        "award_description": "Bid 207286, BDoc 9.06-08242023, (FED) Literacy and Math Support Services",
+        "effective_date": "2023-08-25",
+        "end_date": "2026-08-24"
+      },
+      {
+        "category_code": "20243",
+        "category_description": "ONLINE/VIRTUAL PROFESSIONAL DEVELOPMENT/ACADEMIC (INCLUDING GUEST SPEAKERS)",
+        "award_description": "Bid 208274, BDoc 9.03-12182025, Bid 208274, Texas Education Agency Approved 2022-2025 High Quality Instructional Material Providers for Curriculum Mat",
+        "effective_date": "2025-12-19",
+        "end_date": "2028-12-18"
+      },
+      {
+        "category_code": "20244",
+        "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+        "award_description": "Bid 208274, BDoc 9.03-12182025, Bid 208274, Texas Education Agency Approved 2022-2025 High Quality Instructional Material Providers for Curriculum Mat",
+        "effective_date": "2025-12-19",
+        "end_date": "2028-12-18"
+      },
+      {
+        "category_code": "20244",
+        "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+        "award_description": "Bid 206507, BDoc 7.07-11182021, Tutoring Services and Professional Development for Reading and Math",
+        "effective_date": "2025-11-19",
+        "end_date": "2026-11-18"
+      },
+      {
+        "category_code": "20244",
+        "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+        "award_description": "Bid 207286, BDoc 9.06-08242023, (FED) Literacy and Math Support Services",
+        "effective_date": "2023-08-25",
+        "end_date": "2026-08-24"
+      },
+      {
+        "category_code": "20244",
+        "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+        "award_description": "Bid 206993, BDoc 9.23-06232022, TEA for Contracted Services/Professional Development",
+        "effective_date": "2022-06-24",
+        "end_date": "2027-06-30"
+      },
+      {
+        "category_code": "21000",
+        "category_description": "INSTRUCTIONAL MATERIALS SUPPLIES",
+        "award_description": "Bid 208194, Buyboard RFP 748-24 Instructional Materials (Non-Adopted) for PK-12, Special Education, and Career and Technology",
+        "effective_date": "2025-08-04",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80144",
+        "category_description": "SOFTWARE - SPECIALIZED ACADEMIC",
+        "award_description": "Bid 208194, Buyboard RFP 748-24 Instructional Materials (Non-Adopted) for PK-12, Special Education, and Career and Technology",
+        "effective_date": "2025-08-04",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80145",
+        "category_description": "SOFTWARE - ASSESMENT & ANALYTIC TOOLS",
+        "award_description": "Bid 208194, Buyboard RFP 748-24 Instructional Materials (Non-Adopted) for PK-12, Special Education, and Career and Technology",
+        "effective_date": "2025-08-04",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80171",
+        "category_description": "INSTRUCTIONAL: TESTING MATERIALS",
+        "award_description": "Bid 208274, BDoc 9.03-12182025, Bid 208274, Texas Education Agency Approved 2022-2025 High Quality Instructional Material Providers for Curriculum Mat",
+        "effective_date": "2025-12-19",
+        "end_date": "2028-12-18"
+      },
+      {
+        "category_code": "80172",
+        "category_description": "INSTRUCTIONAL: TESTING SERVICES",
+        "award_description": "Bid 208274, BDoc 9.03-12182025, Bid 208274, Texas Education Agency Approved 2022-2025 High Quality Instructional Material Providers for Curriculum Mat",
+        "effective_date": "2025-12-19",
+        "end_date": "2028-12-18"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "EDUCATION IS FREEDOM",
+    "scraped_at": "2026-03-03T05:20:01.781Z",
+    "site_vendor_name": "name denotes a SBE supplier",
+    "awards": [
+      {
+        "category_code": "20240",
+        "category_description": "CONSULTANT SERVICES - ACADEMIC",
+        "award_description": "Bid 206725, BDoc 9.30-062322 (FED), College and Career Advising Program",
+        "effective_date": "2022-07-01",
+        "end_date": "2026-07-31"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "GREAT MINDS PBC",
+    "scraped_at": "2026-03-03T05:21:34.285Z",
+    "site_vendor_name": "name denotes a SBE supplier",
+    "awards": [
+      {
+        "category_code": "20240",
+        "category_description": "CONSULTANT SERVICES - ACADEMIC",
+        "award_description": "Bid 206993, BDoc 9.23-06232022, TEA for Contracted Services/Professional Development",
+        "effective_date": "2022-06-24",
+        "end_date": "2027-06-30"
+      },
+      {
+        "category_code": "20244",
+        "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+        "award_description": "Bid 206993, BDoc 9.23-06232022, TEA for Contracted Services/Professional Development",
+        "effective_date": "2022-06-24",
+        "end_date": "2027-06-30"
+      }
+    ],
+    "error": null
+  },
+  {
+    "vendor_name": "LAKESHORE LEARNING MATERIALS",
+    "scraped_at": "2026-03-03T05:21:06.872Z",
+    "site_vendor_name": "name denotes a SBE supplier",
+    "awards": [
+      {
+        "category_code": "10460",
+        "category_description": "FURNITURE: BOND FUNDED & GENOP FUNDED FOR NEW CONSTRUCTION/RENOVATION",
+        "award_description": "Bid 207883, BDoc 9.29-04242025, Furniture, Fixtures, and Equipment (FF&E)",
+        "effective_date": "2025-04-24",
+        "end_date": "2028-04-24"
+      },
+      {
+        "category_code": "10470",
+        "category_description": "FURNITURE: OFFICE & CLASSROOM - NON-CONSTRUCTION/RENOVATION",
+        "award_description": "Bid 207883, BDoc 9.29-04242025, Furniture, Fixtures, and Equipment (FF&E)",
+        "effective_date": "2025-04-24",
+        "end_date": "2028-04-24"
+      },
+      {
+        "category_code": "10776",
+        "category_description": "POSTER PRINTERS, SUPPLIES AND SERVICES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "20200",
+        "category_description": "CLOTHING APPAREL, SPIRITWEAR (T-SHIRTS, POLO, STUDENT/STAFF UNIFORMS)",
+        "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+        "effective_date": "2026-01-23",
+        "end_date": "2029-01-22"
+      },
+      {
+        "category_code": "20240",
+        "category_description": "CONSULTANT SERVICES - ACADEMIC",
+        "award_description": "Bid 207286, BDoc 9.06-08242023, (FED) Literacy and Math Support Services",
+        "effective_date": "2023-08-25",
+        "end_date": "2026-08-24"
+      },
+      {
+        "category_code": "20244",
+        "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+        "award_description": "Bid 207286, BDoc 9.06-08242023, (FED) Literacy and Math Support Services",
+        "effective_date": "2023-08-25",
+        "end_date": "2026-08-24"
+      },
+      {
+        "category_code": "20990",
+        "category_description": "TEACHING AND LEARNING AIDS.",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "21000",
+        "category_description": "INSTRUCTIONAL MATERIALS SUPPLIES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80102",
+        "category_description": "SCIENCE LAB SUPPLIES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80103",
+        "category_description": "SCIENCE LAB EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80152",
+        "category_description": "INSTRUCTIONAL: EARLY CHILDHOOD EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80155",
+        "category_description": "INSTRUCTIONAL: EARLY CHILDHOOD SUPPLIES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80156",
+        "category_description": "INSTRUCTIONAL EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80159",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION ADAPTIVE EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80160",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION ASSISTIVE TECHNOLOGY",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80161",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION EQUIPMENT",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80166",
+        "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION SUPPLIES",
+        "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+        "effective_date": "2025-09-19",
+        "end_date": "2026-06-30"
+      },
+      {
+        "category_code": "80187",
+        "category_description": "VPA UIL ACADEMIC TESTING MATERIALS",
+        "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+        "effective_date": "2026-01-23",
+        "end_date": "2029-01-22"
+      },
+      {
+        "category_code": "80188",
+        "category_description": "VPA UIL STAGE SETS",
+        "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+        "effective_date": "2026-01-23",
+        "end_date": "2029-01-22"
+      },
+      {
+        "category_code": "80190",
+        "category_description": "TROPHIES, PLAQUES, AWARDS FOR STUDENTS",
+        "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+        "effective_date": "2026-01-23",
+        "end_date": "2029-01-22"
+      },
+      {
+        "category_code": "80340",
+        "category_description": "YEARBOOKS",
+        "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+        "effective_date": "2026-01-23",
+        "end_date": "2029-01-22"
+      },
+      {
+        "category_code": "80342",
+        "category_description": "GRADUATION: CONTRACTED SERVICES",
+        "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+        "effective_date": "2026-01-23",
+        "end_date": "2029-01-22"
+      },
+      {
+        "category_code": "80343",
+        "category_description": "GRADUATION: DECORATION RENTALS",
+        "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+        "effective_date": "2026-01-23",
+        "end_date": "2029-01-22"
+      },
+      {
+        "category_code": "80344",
+        "category_description": "GRADUATION: GOWNS, CORDS, AND MEDALS",
+        "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+        "effective_date": "2026-01-23",
+        "end_date": "2029-01-22"
+      },
+      {
+        "category_code": "80345",
+        "category_description": "GRADUATION: SUPPLIES",
+        "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+        "effective_date": "2026-01-23",
+        "end_date": "2029-01-22"
+      },
+      {
+        "category_code": "80346",
+        "category_description": "GRADUATION: PROM CONTRACTED SERVICES",
+        "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+        "effective_date": "2026-01-23",
+        "end_date": "2029-01-22"
+      },
+      {
+        "category_code": "80347",
+        "category_description": "GRADUATION: PROM SUPPLIES",
+        "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+        "effective_date": "2026-01-23",
+        "end_date": "2029-01-22"
+      },
+      {
+        "category_code": "80367",
+        "category_description": "LETTER JACKETS (UIL/SPECIAL OLYMPICS)",
+        "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+        "effective_date": "2026-01-23",
+        "end_date": "2029-01-22"
+      },
+      {
+        "category_code": "80368",
+        "category_description": "CHAMPIONSHIP RINGS/MEDALS (UIL/SPECIAL OLYMPICS)",
+        "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+        "effective_date": "2026-01-23",
+        "end_date": "2029-01-22"
+      }
+    ],
+    "error": null
+  }
+]

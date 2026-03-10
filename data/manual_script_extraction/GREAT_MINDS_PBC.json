@@ -1,0 +1,22 @@
+{
+  "vendor_name": "GREAT MINDS PBC",
+  "scraped_at": "2026-03-03T05:21:34.285Z",
+  "site_vendor_name": "name denotes a SBE supplier",
+  "awards": [
+    {
+      "category_code": "20240",
+      "category_description": "CONSULTANT SERVICES - ACADEMIC",
+      "award_description": "Bid 206993, BDoc 9.23-06232022, TEA for Contracted Services/Professional Development",
+      "effective_date": "2022-06-24",
+      "end_date": "2027-06-30"
+    },
+    {
+      "category_code": "20244",
+      "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+      "award_description": "Bid 206993, BDoc 9.23-06232022, TEA for Contracted Services/Professional Development",
+      "effective_date": "2022-06-24",
+      "end_date": "2027-06-30"
+    }
+  ],
+  "error": null
+}

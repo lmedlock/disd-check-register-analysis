@@ -1,0 +1,211 @@
+{
+  "vendor_name": "LAKESHORE LEARNING MATERIALS",
+  "scraped_at": "2026-03-03T05:21:06.872Z",
+  "site_vendor_name": "name denotes a SBE supplier",
+  "awards": [
+    {
+      "category_code": "10460",
+      "category_description": "FURNITURE: BOND FUNDED & GENOP FUNDED FOR NEW CONSTRUCTION/RENOVATION",
+      "award_description": "Bid 207883, BDoc 9.29-04242025, Furniture, Fixtures, and Equipment (FF&E)",
+      "effective_date": "2025-04-24",
+      "end_date": "2028-04-24"
+    },
+    {
+      "category_code": "10470",
+      "category_description": "FURNITURE: OFFICE & CLASSROOM - NON-CONSTRUCTION/RENOVATION",
+      "award_description": "Bid 207883, BDoc 9.29-04242025, Furniture, Fixtures, and Equipment (FF&E)",
+      "effective_date": "2025-04-24",
+      "end_date": "2028-04-24"
+    },
+    {
+      "category_code": "10776",
+      "category_description": "POSTER PRINTERS, SUPPLIES AND SERVICES",
+      "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+      "effective_date": "2025-09-19",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "20200",
+      "category_description": "CLOTHING APPAREL, SPIRITWEAR (T-SHIRTS, POLO, STUDENT/STAFF UNIFORMS)",
+      "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+      "effective_date": "2026-01-23",
+      "end_date": "2029-01-22"
+    },
+    {
+      "category_code": "20240",
+      "category_description": "CONSULTANT SERVICES - ACADEMIC",
+      "award_description": "Bid 207286, BDoc 9.06-08242023, (FED) Literacy and Math Support Services",
+      "effective_date": "2023-08-25",
+      "end_date": "2026-08-24"
+    },
+    {
+      "category_code": "20244",
+      "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+      "award_description": "Bid 207286, BDoc 9.06-08242023, (FED) Literacy and Math Support Services",
+      "effective_date": "2023-08-25",
+      "end_date": "2026-08-24"
+    },
+    {
+      "category_code": "20990",
+      "category_description": "TEACHING AND LEARNING AIDS.",
+      "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+      "effective_date": "2025-09-19",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "21000",
+      "category_description": "INSTRUCTIONAL MATERIALS SUPPLIES",
+      "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+      "effective_date": "2025-09-19",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "80102",
+      "category_description": "SCIENCE LAB SUPPLIES",
+      "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+      "effective_date": "2025-09-19",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "80103",
+      "category_description": "SCIENCE LAB EQUIPMENT",
+      "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+      "effective_date": "2025-09-19",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "80152",
+      "category_description": "INSTRUCTIONAL: EARLY CHILDHOOD EQUIPMENT",
+      "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+      "effective_date": "2025-09-19",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "80155",
+      "category_description": "INSTRUCTIONAL: EARLY CHILDHOOD SUPPLIES",
+      "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+      "effective_date": "2025-09-19",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "80156",
+      "category_description": "INSTRUCTIONAL EQUIPMENT",
+      "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+      "effective_date": "2025-09-19",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "80159",
+      "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION ADAPTIVE EQUIPMENT",
+      "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+      "effective_date": "2025-09-19",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "80160",
+      "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION ASSISTIVE TECHNOLOGY",
+      "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+      "effective_date": "2025-09-19",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "80161",
+      "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION EQUIPMENT",
+      "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+      "effective_date": "2025-09-19",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "80166",
+      "category_description": "INSTRUCTIONAL: SPECIAL EDUCATION SUPPLIES",
+      "award_description": "Bid 208215, Campus Instructional Supplies and Equipment",
+      "effective_date": "2025-09-19",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "80187",
+      "category_description": "VPA UIL ACADEMIC TESTING MATERIALS",
+      "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+      "effective_date": "2026-01-23",
+      "end_date": "2029-01-22"
+    },
+    {
+      "category_code": "80188",
+      "category_description": "VPA UIL STAGE SETS",
+      "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+      "effective_date": "2026-01-23",
+      "end_date": "2029-01-22"
+    },
+    {
+      "category_code": "80190",
+      "category_description": "TROPHIES, PLAQUES, AWARDS FOR STUDENTS",
+      "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+      "effective_date": "2026-01-23",
+      "end_date": "2029-01-22"
+    },
+    {
+      "category_code": "80340",
+      "category_description": "YEARBOOKS",
+      "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+      "effective_date": "2026-01-23",
+      "end_date": "2029-01-22"
+    },
+    {
+      "category_code": "80342",
+      "category_description": "GRADUATION: CONTRACTED SERVICES",
+      "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+      "effective_date": "2026-01-23",
+      "end_date": "2029-01-22"
+    },
+    {
+      "category_code": "80343",
+      "category_description": "GRADUATION: DECORATION RENTALS",
+      "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+      "effective_date": "2026-01-23",
+      "end_date": "2029-01-22"
+    },
+    {
+      "category_code": "80344",
+      "category_description": "GRADUATION: GOWNS, CORDS, AND MEDALS",
+      "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+      "effective_date": "2026-01-23",
+      "end_date": "2029-01-22"
+    },
+    {
+      "category_code": "80345",
+      "category_description": "GRADUATION: SUPPLIES",
+      "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+      "effective_date": "2026-01-23",
+      "end_date": "2029-01-22"
+    },
+    {
+      "category_code": "80346",
+      "category_description": "GRADUATION: PROM CONTRACTED SERVICES",
+      "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+      "effective_date": "2026-01-23",
+      "end_date": "2029-01-22"
+    },
+    {
+      "category_code": "80347",
+      "category_description": "GRADUATION: PROM SUPPLIES",
+      "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+      "effective_date": "2026-01-23",
+      "end_date": "2029-01-22"
+    },
+    {
+      "category_code": "80367",
+      "category_description": "LETTER JACKETS (UIL/SPECIAL OLYMPICS)",
+      "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+      "effective_date": "2026-01-23",
+      "end_date": "2029-01-22"
+    },
+    {
+      "category_code": "80368",
+      "category_description": "CHAMPIONSHIP RINGS/MEDALS (UIL/SPECIAL OLYMPICS)",
+      "award_description": "Bid 208245, BDoc 9.7-01222026, Bid 208245, Student Activities Study Materials, Resources, Supplies, Incentives, and Professional Services",
+      "effective_date": "2026-01-23",
+      "end_date": "2029-01-22"
+    }
+  ],
+  "error": null
+}

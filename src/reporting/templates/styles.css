@@ -1,0 +1,559 @@
+/* EdTech Spending Report Styles */
+
+:root {
+    --primary-color: #003366;
+    --secondary-color: #c8102e;
+    --accent-color: #00a3e0;
+    --bg-color: #f5f7fa;
+    --card-bg: #ffffff;
+    --text-color: #333333;
+    --text-muted: #666666;
+    --border-color: #e1e5eb;
+
+    /* Replaceability colors (v2 5-level scale) */
+    --repl-high: #2ecc71;
+    --repl-medium: #f1c40f;
+    --repl-low: #e67e22;
+    --repl-very-low: #e74c3c;
+    --repl-none: #95a5a6;
+    --repl-unknown: #bdc3c7;
+
+    /* Classification colors */
+    --class-platform: #3498db;
+    --class-curriculum: #9b59b6;
+    --class-services: #95a5a6;
+    --class-physical: #7f8c8d;
+    --class-hybrid: #e67e22;
+
+    /* Criticality colors */
+    --crit-core: #e74c3c;
+    --crit-important: #f39c12;
+    --crit-supplementary: #3498db;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    font-size: 14px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header */
+.report-header {
+    background: linear-gradient(135deg, var(--primary-color) 0%, #004a99 100%);
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    border-radius: 8px;
+}
+
+.report-header h1 {
+    font-size: 2.2em;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.report-header .subtitle {
+    font-size: 1.1em;
+    opacity: 0.9;
+}
+
+.report-header .date {
+    margin-top: 15px;
+    font-size: 0.9em;
+    opacity: 0.7;
+}
+
+/* Section Styles */
+.section {
+    background: var(--card-bg);
+    border-radius: 8px;
+    padding: 25px;
+    margin-bottom: 25px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.section h2 {
+    color: var(--primary-color);
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--border-color);
+}
+
+.section h3 {
+    color: var(--text-color);
+    font-size: 1.2em;
+    margin: 20px 0 15px 0;
+}
+
+/* Metrics Grid */
+.metrics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+    margin-bottom: 10px;
+}
+
+.metric-card {
+    background: var(--card-bg);
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s;
+}
+
+.metric-card:hover {
+    transform: translateY(-2px);
+}
+
+.metric-title {
+    font-size: 0.85em;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 8px;
+}
+
+.metric-value {
+    font-size: 2.2em;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 5px;
+}
+
+.metric-subtitle {
+    font-size: 0.8em;
+    color: var(--text-muted);
+}
+
+/* Chart containers */
+.chart-container {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.chart-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.chart-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 25px;
+}
+
+.chart-row .chart-container {
+    background: var(--card-bg);
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+/* Treemap container */
+.treemap-container {
+    width: 100%;
+    height: 500px;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* Vendor Profiles */
+.vendor-profiles {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 20px;
+}
+
+.vendor-card {
+    background: var(--card-bg);
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    transition: transform 0.2s;
+}
+
+.vendor-card:hover {
+    transform: translateY(-2px);
+}
+
+.vendor-header {
+    padding: 15px 20px;
+    background: var(--bg-color);
+}
+
+.vendor-title-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.vendor-header h3 {
+    font-size: 1em;
+    margin: 0;
+    color: var(--primary-color);
+}
+
+.vendor-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+}
+
+.vendor-spending {
+    font-size: 1.1em;
+    font-weight: 700;
+    color: var(--secondary-color);
+}
+
+.composite-score {
+    font-size: 0.8em;
+    padding: 2px 8px;
+    background: var(--primary-color);
+    color: white;
+    border-radius: 4px;
+}
+
+.confidence-badge {
+    font-size: 0.7em;
+    padding: 2px 6px;
+    border-radius: 4px;
+    color: white;
+}
+
+.classification-badge {
+    font-size: 0.7em;
+    padding: 3px 8px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 600;
+}
+
+.vendor-body {
+    padding: 15px 20px;
+}
+
+.vendor-section {
+    margin-bottom: 15px;
+}
+
+.vendor-section h4 {
+    font-size: 0.75em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 8px;
+    letter-spacing: 0.5px;
+}
+
+.vendor-section p {
+    font-size: 0.9em;
+    color: var(--text-color);
+}
+
+.product-list {
+    list-style: none;
+    padding: 0;
+}
+
+.product-list li {
+    font-size: 0.85em;
+    padding: 3px 0;
+    color: var(--text-color);
+}
+
+.product-list li:before {
+    content: "•";
+    color: var(--accent-color);
+    margin-right: 8px;
+}
+
+.replaceability-section {
+    background: var(--bg-color);
+    margin: 0 -20px -15px;
+    padding: 15px 20px;
+}
+
+.replaceability-badge {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 20px;
+    color: white;
+    font-size: 0.75em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 10px;
+}
+
+.replaceability-rationale {
+    font-size: 0.85em;
+    color: var(--text-muted);
+    line-height: 1.5;
+}
+
+.replaceability-rationale strong {
+    color: var(--text-color);
+    font-style: normal;
+}
+
+/* Dimension Scores Grid */
+.dimension-scores {
+    margin-top: 15px;
+}
+
+.dimension-scores .score-legend {
+    font-weight: normal;
+    font-size: 0.8em;
+    color: var(--text-muted);
+}
+
+.score-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 8px;
+}
+
+.score-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px 8px;
+    background: var(--bg-color);
+    border-radius: 4px;
+    font-size: 0.8em;
+}
+
+.score-label {
+    color: var(--text-muted);
+}
+
+.score-value {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    border-radius: 50%;
+    color: white;
+    font-weight: 700;
+    font-size: 0.9em;
+}
+
+/* Service Breakdown Bar */
+.service-breakdown {
+    margin-top: 15px;
+}
+
+.breakdown-bar {
+    display: flex;
+    height: 20px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 8px;
+}
+
+.breakdown-segment {
+    transition: opacity 0.2s;
+}
+
+.breakdown-segment:hover {
+    opacity: 0.8;
+}
+
+.breakdown-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    font-size: 0.75em;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.legend-color {
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+}
+
+/* Table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 15px 0;
+}
+
+th, td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid var(--border-color);
+}
+
+th {
+    background: var(--bg-color);
+    color: var(--primary-color);
+    font-weight: 600;
+    font-size: 0.85em;
+    text-transform: uppercase;
+}
+
+tr:hover {
+    background: #f8f9fa;
+}
+
+/* Footer */
+.report-footer {
+    text-align: center;
+    padding: 30px 20px;
+    color: var(--text-muted);
+    font-size: 0.85em;
+    border-top: 1px solid var(--border-color);
+    margin-top: 30px;
+}
+
+/* Print styles */
+@media print {
+    body {
+        background: white;
+        font-size: 11pt;
+    }
+
+    .container {
+        max-width: none;
+        padding: 0;
+    }
+
+    .report-header {
+        background: var(--primary-color) !important;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    .section {
+        break-inside: avoid;
+        page-break-inside: avoid;
+        box-shadow: none;
+        border: 1px solid var(--border-color);
+    }
+
+    .vendor-card {
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    .metric-card {
+        break-inside: avoid;
+    }
+
+    .chart-container img {
+        max-height: 400px;
+        width: auto;
+    }
+
+    .treemap-container {
+        height: 400px;
+    }
+
+    a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .no-print {
+        display: none !important;
+    }
+}
+
+@page {
+    margin: 0.75in;
+    size: letter;
+}
+
+/* Fund breakdown table */
+.fund-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.82em;
+    margin-top: 6px;
+}
+.fund-table th {
+    text-align: left;
+    padding: 4px 6px;
+    background: #f0f4f8;
+    color: #555;
+    font-weight: 600;
+    border-bottom: 1px solid #dde3ea;
+}
+.fund-table td {
+    padding: 3px 6px;
+    border-bottom: 1px solid #f0f0f0;
+    vertical-align: top;
+}
+.fund-code { font-family: monospace; color: #003366; font-weight: 600; }
+.fund-name { color: #444; }
+.fund-amount { font-weight: 600; color: #2c3e50; white-space: nowrap; }
+.fund-count { color: #888; white-space: nowrap; }
+
+/* Matched awards */
+.matched-awards .award-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 6px 0;
+    border-bottom: 1px solid #f0f0f0;
+}
+.matched-awards .award-item:last-child { border-bottom: none; }
+.award-status-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    margin-top: 4px;
+}
+.award-bid { font-size: 0.83em; font-weight: 600; color: #2c3e50; }
+.award-cat { font-size: 0.78em; color: #666; margin-top: 1px; }
+.award-spend { font-size: 0.78em; color: #444; margin-top: 2px; }
+.award-status-label { font-weight: 600; }
+.coverage-note { font-size: 0.82em; color: #888; font-style: italic; }
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .report-header h1 {
+        font-size: 1.6em;
+    }
+
+    .metrics-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .chart-row {
+        grid-template-columns: 1fr;
+    }
+
+    .vendor-profiles {
+        grid-template-columns: 1fr;
+    }
+}

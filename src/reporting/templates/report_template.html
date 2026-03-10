@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <style>
+{{ css_content }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="report-header">
+            <h1>{{ title }}</h1>
+            <p class="subtitle">{{ subtitle }}</p>
+            <p class="date">Generated: {{ generation_date }}</p>
+        </header>
+
+        <!-- Executive Summary -->
+        <section class="section" id="executive-summary">
+            <h2>Executive Summary</h2>
+            <p>This report analyzes Dallas ISD's Educational Technology (EdTech) spending over a 4-year period (FY2021-FY2025), identifying key vendors, spending patterns, and opportunities for in-house development or consolidation.</p>
+
+            <h3>Key Metrics</h3>
+            {{ metrics_cards | safe }}
+
+            <h3>Top 10 EdTech Vendors</h3>
+            <p>The chart below shows the top 10 vendors by spending, color-coded by replaceability level. Green indicates platforms that could potentially be built in-house, while red indicates vendors with proprietary content or services that would be difficult to replace.</p>
+            <div class="chart-container">
+                <img src="{{ top_vendors_chart }}" alt="Top 10 EdTech Vendors by Spending">
+            </div>
+
+            <div class="chart-row">
+                <div class="chart-container">
+                    <h4>Replaceability Distribution</h4>
+                    <img src="{{ replaceability_donut }}" alt="Spending by Replaceability Level">
+                </div>
+            </div>
+        </section>
+
+        <!-- Detailed Analysis -->
+        <section class="section" id="detailed-analysis">
+            <h2>Detailed Analysis</h2>
+
+            <h3>Spending Hierarchy</h3>
+            <p>Interactive treemap showing vendor spending organized by replaceability level. Larger boxes represent higher spending.</p>
+            <div class="treemap-container">
+                {{ spending_treemap | safe }}
+            </div>
+
+            <h3>Spending Trends</h3>
+            <p>Monthly EdTech spending over the analysis period, showing seasonal patterns and overall trends.</p>
+            <div class="chart-container">
+                <img src="{{ time_series_chart }}" alt="Monthly EdTech Spending Trend">
+            </div>
+
+            <h3>Vendor Concentration</h3>
+            <p>Pareto analysis showing how spending is concentrated among top vendors. The 80% line indicates that a relatively small number of vendors account for the majority of EdTech spending.</p>
+            <div class="chart-container">
+                <img src="{{ pareto_chart }}" alt="Vendor Concentration Pareto Chart">
+            </div>
+        </section>
+
+        <!-- Key Findings -->
+        <section class="section" id="key-findings">
+            <h2>Key Findings</h2>
+
+            <h3>Spending Concentration</h3>
+            <ul>
+                <li><strong>Top 25 vendors</strong> account for <strong>{{ top_25_concentration }}%</strong> of total EdTech spending</li>
+                <li>The largest vendor ({{ top_vendor_name }}) alone represents <strong>{{ top_vendor_pct }}%</strong> of EdTech spending</li>
+                <li>{{ total_vendor_count }} unique EdTech vendors identified across the 4-year period</li>
+            </ul>
+
+            <h3>Replaceability Analysis</h3>
+            {% if is_v2_format %}
+            <p>Using the 5-dimension scoring framework, the top 25 researched vendors break down as:</p>
+            <ul>
+                <li><strong>High Replaceability (4.0-5.0):</strong> {{ high_repl_count }} vendors ({{ high_repl_spending }}) - Viable candidates for in-house development</li>
+                <li><strong>Medium Replaceability (3.0-3.9):</strong> {{ medium_repl_count }} vendors ({{ medium_repl_spending }}) - Possible with significant investment</li>
+                <li><strong>Low Replaceability (2.0-2.9):</strong> {{ low_repl_count }} vendors ({{ low_repl_spending }}) - Major barriers, not recommended</li>
+                <li><strong>Very Low Replaceability (1.0-1.9):</strong> {{ very_low_repl_count }} vendors ({{ very_low_repl_spending }}) - Essentially irreplaceable</li>
+                <li><strong>Not Applicable:</strong> {{ none_repl_count }} vendors ({{ none_repl_spending }}) - Physical goods or human services</li>
+                {% if unknown_repl_count > 0 %}
+                <li><strong>Needs Research:</strong> {{ unknown_repl_count }} vendors ({{ unknown_repl_spending }}) - Flagged for manual follow-up</li>
+                {% endif %}
+            </ul>
+
+            <h3>Vendor Classification</h3>
+            <p>Vendors are classified by their primary offering type:</p>
+            <ul>
+                <li><strong>Platform:</strong> {{ platform_count }} vendors ({{ platform_spending }}) - Software systems (SIS, LMS, assessment)</li>
+                <li><strong>Curriculum + Platform:</strong> {{ curriculum_platform_count }} vendors ({{ curriculum_platform_spending }}) - Content bundled with delivery</li>
+                <li><strong>Services:</strong> {{ services_count }} vendors ({{ services_spending }}) - Human-delivered (PD, consulting)</li>
+                <li><strong>Hybrid:</strong> {{ hybrid_count }} vendors ({{ hybrid_spending }}) - Mixed platform + services</li>
+                <li><strong>Physical:</strong> {{ physical_count }} vendors ({{ physical_spending }}) - Hardware/materials</li>
+            </ul>
+
+            <h3>Dimension Score Averages</h3>
+            <p>Average scores across software vendors (1=hard to replace, 5=easy):</p>
+            <ul>
+                <li><strong>Technical Buildability:</strong> {{ avg_technical }} - Could a dev team build this?</li>
+                <li><strong>Content/IP:</strong> {{ avg_content }} - How hard to replicate content?</li>
+                <li><strong>Switching Cost:</strong> {{ avg_switching }} - Operational impact of replacement</li>
+                <li><strong>Market Alternatives:</strong> {{ avg_alternatives }} - Available alternatives</li>
+                <li><strong>Data Portability:</strong> {{ avg_portability }} - Can you extract your data?</li>
+            </ul>
+
+            <h3>Criticality Breakdown</h3>
+            <ul>
+                <li><strong>Core Systems:</strong> {{ core_count }} vendors ({{ core_spending }}) - Daily operations depend on these</li>
+                <li><strong>Important:</strong> {{ important_count }} vendors ({{ important_spending }}) - Significant but not critical</li>
+                <li><strong>Supplementary:</strong> {{ supplementary_count }} vendors ({{ supplementary_spending }}) - Nice to have</li>
+            </ul>
+            {% else %}
+            <p>Of the top 25 researched vendors:</p>
+            <ul>
+                <li><strong>High Replaceability:</strong> {{ high_repl_count }} vendors ({{ high_repl_spending }}) - Platforms with standard functionality that could be built in-house</li>
+                <li><strong>Medium Replaceability:</strong> {{ medium_repl_count }} vendors ({{ medium_repl_spending }}) - Would require moderate effort and domain expertise</li>
+                <li><strong>Low Replaceability:</strong> {{ low_repl_count }} vendors ({{ low_repl_spending }}) - Proprietary content or algorithms difficult to replicate</li>
+                <li><strong>None:</strong> {{ none_repl_count }} vendors ({{ none_repl_spending }}) - Physical goods or human services, not software</li>
+            </ul>
+            {% endif %}
+
+            <h3>Recommendations</h3>
+            <ol>
+                <li><strong>Evaluate high-replaceability vendors</strong> for potential in-house development or open-source alternatives</li>
+                <li><strong>Negotiate better terms</strong> with top-spending vendors given the concentration of spending</li>
+                <li><strong>Consolidate similar tools</strong> where multiple vendors provide overlapping functionality</li>
+                <li><strong>Focus curriculum investments</strong> on vendors with low replaceability, as their content is the core value</li>
+                {% if is_v2_format and unknown_repl_count > 0 %}
+                <li><strong>Research unknown vendors</strong> - {{ unknown_repl_count }} vendors need manual investigation</li>
+                {% endif %}
+            </ol>
+        </section>
+
+        {% if is_v2_format %}
+        <!-- Dimension Analysis (V2 only) -->
+        <section class="section" id="dimension-analysis">
+            <h2>Multi-Dimensional Analysis</h2>
+            <p>The v2 scoring framework evaluates vendors across 5 dimensions, each scored 1-5 where higher scores indicate greater replaceability.</p>
+
+            <h3>Dimension Heatmap</h3>
+            <p>Comparison of dimension scores across software vendors (services and physical vendors excluded).</p>
+            <div class="chart-container">
+                <img src="{{ dimension_heatmap }}" alt="Dimension Score Heatmap">
+            </div>
+
+            <h3>Classification Distribution</h3>
+            <p>Breakdown of vendors by type and associated spending.</p>
+            <div class="chart-container">
+                <img src="{{ classification_chart }}" alt="Classification Distribution">
+            </div>
+        </section>
+        {% endif %}
+
+        <!-- Vendor Profiles -->
+        <section class="section" id="vendor-profiles">
+            <h2>Vendor Profiles</h2>
+            <p>Detailed profiles of the top 25 researched EdTech vendors, including their products, use cases, and replaceability assessments.</p>
+
+            {{ vendor_cards | safe }}
+        </section>
+
+        <!-- Footer -->
+        <footer class="report-footer">
+            <p>Dallas ISD EdTech Spending Analysis Report</p>
+            <p>Data period: September 2021 - August 2025 | Generated using automated analysis tools</p>
+            <p class="no-print">This report is interactive in HTML format. Charts can be zoomed and explored.</p>
+        </footer>
+    </div>
+
+    <script>
+        // Enable smooth scrolling for navigation
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>

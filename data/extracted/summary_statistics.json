@@ -1,0 +1,98 @@
+{
+  "total_transactions": 122693,
+  "total_spending": 5964972065.83,
+  "date_range": {
+    "start": "2021-09-01",
+    "end": "2025-08-31"
+  },
+  "unique_vendors": 9370,
+  "top_20_vendors": [
+    {
+      "vendor": "TEACHER RETIREMENT SYSTEM OF TEXAS",
+      "amount": 1165716921.85
+    },
+    {
+      "vendor": "INTERNAL REVENUE SERVICE",
+      "amount": 586455574.52
+    },
+    {
+      "vendor": "RATCLIFF CONSTRUCTORS LP",
+      "amount": 217575694.97
+    },
+    {
+      "vendor": "REEDER GENERAL CONTRACTORS, INC.",
+      "amount": 144786884.43
+    },
+    {
+      "vendor": "HC BECK Ltd.",
+      "amount": 128460496.33
+    },
+    {
+      "vendor": "BECK 3I JOINT VENTURE",
+      "amount": 125518982.81
+    },
+    {
+      "vendor": "GILBERT MAY INC. DBA PHILLIPS/MAY",
+      "amount": 113316757.83
+    },
+    {
+      "vendor": "SEDALCO, INC.",
+      "amount": 110423010.77
+    },
+    {
+      "vendor": "RELIANT ENERGY RETAIL SERVICES LLC",
+      "amount": 101422076.82
+    },
+    {
+      "vendor": "CADENCE MCSHANE-MORALES",
+      "amount": 96317693.96
+    },
+    {
+      "vendor": "SFP2, A JOINT VENTURE, LLC",
+      "amount": 94410260.12
+    },
+    {
+      "vendor": "NORTHRIDGE CONSTRUCTION GROUP, LLC",
+      "amount": 63503186.63
+    },
+    {
+      "vendor": "CONSTRUCTION ZONE OF TEXAS LLC",
+      "amount": 60849249.39
+    },
+    {
+      "vendor": "TURNER SOURCE",
+      "amount": 59657991.62
+    },
+    {
+      "vendor": "JOESTA CONSTRUCTION, LLC.",
+      "amount": 58694953.97
+    },
+    {
+      "vendor": "LENOVO (UNITED STATES) INC",
+      "amount": 58502459.02
+    },
+    {
+      "vendor": "USI INSURANCE SERVICES LLC",
+      "amount": 54774528.41
+    },
+    {
+      "vendor": "TEXAS AIR SYSTEMS LLC",
+      "amount": 54228602.59
+    },
+    {
+      "vendor": "BIG SKY - WESSON JV",
+      "amount": 48704655.22
+    },
+    {
+      "vendor": "CITY OF DALLAS",
+      "amount": 42479886.08
+    }
+  ],
+  "yearly_spending": {
+    "2021": 453601357.63,
+    "2022": 1341283789.4,
+    "2023": 1489447030.34,
+    "2024": 1638612295.66,
+    "2025": 1042027592.8
+  }
+}

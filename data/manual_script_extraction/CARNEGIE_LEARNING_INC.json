@@ -1,0 +1,99 @@
+{
+  "vendor_name": "CARNEGIE LEARNING INC",
+  "scraped_at": "2026-03-03T05:19:15.424Z",
+  "site_vendor_name": "name denotes a SBE supplier",
+  "awards": [
+    {
+      "category_code": "20240",
+      "category_description": "CONSULTANT SERVICES - ACADEMIC",
+      "award_description": "Bid 206507, BDoc 7.07-11182021, Tutoring Services and Professional Development for Reading and Math",
+      "effective_date": "2025-11-19",
+      "end_date": "2026-11-18"
+    },
+    {
+      "category_code": "20240",
+      "category_description": "CONSULTANT SERVICES - ACADEMIC",
+      "award_description": "Bid 206993, BDoc 9.23-06232022, TEA for Contracted Services/Professional Development",
+      "effective_date": "2022-06-24",
+      "end_date": "2027-06-30"
+    },
+    {
+      "category_code": "20240",
+      "category_description": "CONSULTANT SERVICES - ACADEMIC",
+      "award_description": "Bid 207286, BDoc 9.06-08242023, (FED) Literacy and Math Support Services",
+      "effective_date": "2023-08-25",
+      "end_date": "2026-08-24"
+    },
+    {
+      "category_code": "20243",
+      "category_description": "ONLINE/VIRTUAL PROFESSIONAL DEVELOPMENT/ACADEMIC (INCLUDING GUEST SPEAKERS)",
+      "award_description": "Bid 208274, BDoc 9.03-12182025, Bid 208274, Texas Education Agency Approved 2022-2025 High Quality Instructional Material Providers for Curriculum Mat",
+      "effective_date": "2025-12-19",
+      "end_date": "2028-12-18"
+    },
+    {
+      "category_code": "20244",
+      "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+      "award_description": "Bid 208274, BDoc 9.03-12182025, Bid 208274, Texas Education Agency Approved 2022-2025 High Quality Instructional Material Providers for Curriculum Mat",
+      "effective_date": "2025-12-19",
+      "end_date": "2028-12-18"
+    },
+    {
+      "category_code": "20244",
+      "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+      "award_description": "Bid 206507, BDoc 7.07-11182021, Tutoring Services and Professional Development for Reading and Math",
+      "effective_date": "2025-11-19",
+      "end_date": "2026-11-18"
+    },
+    {
+      "category_code": "20244",
+      "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+      "award_description": "Bid 207286, BDoc 9.06-08242023, (FED) Literacy and Math Support Services",
+      "effective_date": "2023-08-25",
+      "end_date": "2026-08-24"
+    },
+    {
+      "category_code": "20244",
+      "category_description": "PROFESSIONAL DEVELOPMENT - ACADEMIC",
+      "award_description": "Bid 206993, BDoc 9.23-06232022, TEA for Contracted Services/Professional Development",
+      "effective_date": "2022-06-24",
+      "end_date": "2027-06-30"
+    },
+    {
+      "category_code": "21000",
+      "category_description": "INSTRUCTIONAL MATERIALS SUPPLIES",
+      "award_description": "Bid 208194, Buyboard RFP 748-24 Instructional Materials (Non-Adopted) for PK-12, Special Education, and Career and Technology",
+      "effective_date": "2025-08-04",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "80144",
+      "category_description": "SOFTWARE - SPECIALIZED ACADEMIC",
+      "award_description": "Bid 208194, Buyboard RFP 748-24 Instructional Materials (Non-Adopted) for PK-12, Special Education, and Career and Technology",
+      "effective_date": "2025-08-04",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "80145",
+      "category_description": "SOFTWARE - ASSESMENT & ANALYTIC TOOLS",
+      "award_description": "Bid 208194, Buyboard RFP 748-24 Instructional Materials (Non-Adopted) for PK-12, Special Education, and Career and Technology",
+      "effective_date": "2025-08-04",
+      "end_date": "2026-06-30"
+    },
+    {
+      "category_code": "80171",
+      "category_description": "INSTRUCTIONAL: TESTING MATERIALS",
+      "award_description": "Bid 208274, BDoc 9.03-12182025, Bid 208274, Texas Education Agency Approved 2022-2025 High Quality Instructional Material Providers for Curriculum Mat",
+      "effective_date": "2025-12-19",
+      "end_date": "2028-12-18"
+    },
+    {
+      "category_code": "80172",
+      "category_description": "INSTRUCTIONAL: TESTING SERVICES",
+      "award_description": "Bid 208274, BDoc 9.03-12182025, Bid 208274, Texas Education Agency Approved 2022-2025 High Quality Instructional Material Providers for Curriculum Mat",
+      "effective_date": "2025-12-19",
+      "end_date": "2028-12-18"
+    }
+  ],
+  "error": null
+}
